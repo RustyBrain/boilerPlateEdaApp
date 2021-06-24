@@ -1,0 +1,1212 @@
+age,gender,family_history,treatment,work_interfere,care_options,wellness_program,seek_help,leave,mental_vs_physical
+37,Female,No,Yes,Often,Not sure,No,Yes,Somewhat easy,Yes
+44,M,No,No,Rarely,No,Don't know,Don't know,Don't know,Don't know
+32,Male,No,No,Rarely,No,No,No,Somewhat difficult,No
+31,Male,Yes,Yes,Often,Yes,No,No,Somewhat difficult,No
+31,Male,No,No,Never,No,Don't know,Don't know,Don't know,Don't know
+33,Male,Yes,No,Sometimes,Not sure,No,Don't know,Don't know,Don't know
+35,Female,Yes,Yes,Sometimes,No,No,No,Somewhat difficult,Don't know
+39,M,No,No,Never,Yes,No,No,Don't know,No
+42,Female,Yes,Yes,Sometimes,Yes,No,No,Very difficult,No
+23,Male,No,No,Never,No,Don't know,Don't know,Don't know,Yes
+31,Male,No,Yes,Sometimes,No,No,No,Don't know,Don't know
+29,male,No,No,Never,Not sure,No,No,Don't know,Don't know
+42,female,Yes,Yes,Sometimes,Yes,No,No,Somewhat difficult,No
+36,Male,Yes,No,Never,Not sure,No,Don't know,Don't know,Don't know
+27,Male,No,No,Never,Not sure,Don't know,Don't know,Somewhat easy,Yes
+29,female,Yes,Yes,Rarely,Not sure,No,No,Somewhat easy,Don't know
+23,Male,No,Yes,Sometimes,No,Don't know,Don't know,Very easy,No
+32,Male,No,Yes,Sometimes,Yes,No,Don't know,Don't know,No
+46,male,Yes,No,Sometimes,Not sure,Yes,Don't know,Very easy,Yes
+36,Male,Yes,No,NA,No,Yes,No,Somewhat easy,Don't know
+29,Male,Yes,Yes,Sometimes,Yes,No,No,Somewhat difficult,No
+31,male,No,No,Never,No,No,No,Somewhat difficult,Yes
+46,Male,No,Yes,Often,Yes,No,No,Don't know,No
+41,Male,No,Yes,Never,No,No,Don't know,Don't know,Don't know
+33,male,Yes,Yes,Rarely,Not sure,Don't know,Yes,Don't know,Don't know
+35,male,Yes,Yes,Sometimes,Yes,No,Don't know,Very easy,No
+33,male,No,No,NA,Not sure,No,Don't know,Don't know,Don't know
+35,Female,Yes,Yes,Rarely,Yes,Don't know,Don't know,Don't know,Yes
+34,male,No,Yes,Sometimes,Not sure,No,Don't know,Somewhat difficult,No
+37,Male,No,No,Sometimes,No,No,No,Very difficult,No
+32,Male,No,No,Never,No,No,No,Don't know,No
+31,Male,Yes,No,Rarely,Yes,No,No,Somewhat difficult,No
+30,male,Yes,Yes,Sometimes,No,No,No,Somewhat easy,Don't know
+42,Male,Yes,Yes,Sometimes,Yes,Yes,Yes,Very easy,Don't know
+40,female,No,Yes,Sometimes,Yes,No,No,Don't know,Yes
+27,Male,No,Yes,Rarely,Yes,No,No,Very easy,Don't know
+29,Male,No,No,Rarely,No,No,No,Very easy,Don't know
+38,Male,No,No,NA,Yes,No,No,Somewhat easy,No
+50,M,No,No,NA,Yes,No,Don't know,Don't know,Don't know
+35,M,No,Yes,Rarely,Yes,No,Yes,Very easy,Yes
+24,Male,No,Yes,Sometimes,No,No,No,Don't know,No
+35,Male,No,No,NA,Not sure,Don't know,Yes,Somewhat difficult,Don't know
+27,Male,Yes,Yes,Sometimes,Yes,No,No,Very difficult,Yes
+18,Male,No,No,Often,Not sure,No,No,Somewhat difficult,No
+30,Male,No,Yes,Sometimes,No,No,No,Don't know,Don't know
+38,Female,Yes,Yes,Sometimes,Yes,No,Yes,Somewhat easy,Yes
+28,Male,No,No,NA,Not sure,No,No,Don't know,Don't know
+34,Male,No,No,NA,No,No,No,Don't know,Don't know
+26,m,No,No,Sometimes,Yes,Yes,No,Don't know,Yes
+30,male,Yes,Yes,Rarely,No,No,Don't know,Don't know,Don't know
+22,M,Yes,Yes,Often,Yes,No,No,Very difficult,Don't know
+33,Male,No,No,NA,Not sure,Don't know,Don't know,Don't know,Don't know
+31,M,No,No,NA,No,Don't know,Don't know,Don't know,Don't know
+32,Male,No,No,Never,Not sure,No,No,Don't know,Don't know
+28,M,No,No,NA,No,No,No,Don't know,Don't know
+24,Male,Yes,Yes,Sometimes,No,No,No,Don't know,No
+26,Male,No,No,NA,No,No,No,Somewhat easy,Don't know
+33,male,Yes,Yes,Often,No,No,No,Somewhat difficult,Don't know
+44,Male,Yes,Yes,Sometimes,No,No,Don't know,Don't know,Don't know
+26,Female,No,Yes,Sometimes,Not sure,Yes,Yes,Very easy,Yes
+27,Male,No,No,Never,Not sure,No,Yes,Somewhat easy,Yes
+26,Male,No,No,NA,No,No,No,Very easy,No
+35,male,No,No,Sometimes,No,No,No,Somewhat easy,Don't know
+40,Male,Yes,No,Sometimes,Yes,Yes,Yes,Don't know,No
+23,Female,Yes,Yes,Often,Not sure,No,No,Very easy,Yes
+36,M,No,No,Sometimes,No,Don't know,Yes,Don't know,Yes
+31,Female,No,No,NA,No,Don't know,Don't know,Don't know,Don't know
+34,Male,No,No,Rarely,No,No,No,Don't know,Don't know
+28,m,No,No,Never,No,No,No,Don't know,Don't know
+34,male,No,No,Never,Not sure,Don't know,Don't know,Somewhat easy,Don't know
+38,Male,No,No,NA,No,No,Don't know,Somewhat easy,Yes
+33,Male,No,No,Never,Not sure,Yes,Don't know,Don't know,Yes
+19,Male,No,No,NA,Yes,No,No,Somewhat difficult,No
+25,Male,No,No,NA,Yes,Yes,Yes,Don't know,Yes
+31,Male,Yes,No,Sometimes,No,No,No,Somewhat difficult,Yes
+32,Male,Yes,Yes,Sometimes,No,No,No,Somewhat difficult,No
+28,m,No,No,Never,No,Don't know,Don't know,Very easy,Yes
+38,Male,Yes,No,Sometimes,Yes,No,Yes,Don't know,Yes
+23,Male,No,No,Never,Not sure,Yes,Don't know,Very easy,Yes
+30,male,No,No,Never,No,No,No,Don't know,No
+33,Male,Yes,No,Never,No,No,No,Don't know,No
+31,Male,No,No,NA,Not sure,No,No,Don't know,No
+39,Male,No,Yes,Often,No,No,No,Very difficult,No
+34,female,Yes,Yes,Rarely,Not sure,No,Don't know,Don't know,Don't know
+29,F,No,Yes,Sometimes,Yes,No,No,Don't know,No
+32,M,No,No,NA,No,No,Don't know,Don't know,Don't know
+31,Male,No,No,Never,Yes,Yes,Yes,Somewhat easy,Yes
+40,male,No,Yes,Sometimes,Yes,No,No,Very difficult,No
+34,Male,No,No,NA,No,No,No,Somewhat easy,Don't know
+25,F,No,Yes,Sometimes,Yes,No,Don't know,Don't know,Don't know
+29,male,No,No,Never,No,No,Don't know,Don't know,No
+24,Male,Yes,No,Rarely,Not sure,No,Don't know,Somewhat easy,Don't know
+31,male,Yes,Yes,Sometimes,No,No,No,Don't know,No
+30,M,No,Yes,Often,Yes,No,No,Somewhat easy,Yes
+26,female,Yes,Yes,Sometimes,Yes,No,No,Very difficult,No
+44,Female,No,No,Never,Not sure,Don't know,Don't know,Don't know,Don't know
+25,Male,Yes,No,NA,No,Don't know,Don't know,Very easy,Don't know
+33,Male,Yes,Yes,Sometimes,Yes,Yes,Yes,Somewhat easy,Yes
+29,Male,No,No,Never,Not sure,Yes,Don't know,Somewhat easy,Don't know
+35,Male,Yes,No,Rarely,Not sure,No,No,Somewhat easy,Don't know
+35,M,Yes,Yes,Sometimes,Not sure,No,No,Somewhat easy,No
+28,Male,Yes,Yes,Rarely,No,No,No,Don't know,Don't know
+34,m,Yes,No,Never,No,No,No,Don't know,Don't know
+32,Male,No,Yes,Sometimes,No,Yes,Yes,Somewhat difficult,Yes
+22,Male,No,Yes,Sometimes,Yes,No,Don't know,Don't know,No
+28,Male,No,Yes,Sometimes,Yes,Yes,Yes,Somewhat easy,Yes
+45,male,Yes,Yes,Rarely,Yes,No,Yes,Very easy,Yes
+32,Male,No,No,Never,Yes,No,Don't know,Don't know,Don't know
+28,male,No,No,NA,No,No,Don't know,Don't know,Don't know
+26,Male,No,No,Never,No,No,Don't know,Very easy,Don't know
+21,Male,No,No,Often,Yes,No,No,Very difficult,No
+27,Male,No,No,Rarely,Yes,Yes,Yes,Very easy,Don't know
+18,Male,No,Yes,Rarely,No,No,No,Very easy,Don't know
+35,Male,No,No,NA,Not sure,No,Don't know,Don't know,Don't know
+29,Male,No,No,Never,Yes,No,Yes,Don't know,Don't know
+25,Male,No,No,NA,No,No,No,Very easy,Don't know
+33,Male,Yes,Yes,Sometimes,No,Don't know,Don't know,Very easy,Yes
+36,Male,No,No,Often,No,No,No,Don't know,Don't know
+27,Male,No,Yes,Never,Not sure,No,No,Very difficult,No
+27,Male,Yes,No,Never,No,Yes,Yes,Don't know,Don't know
+27,Male,No,No,NA,No,No,No,Don't know,Don't know
+32,M,No,Yes,Rarely,Yes,No,Yes,Don't know,Don't know
+31,Male,Yes,No,Sometimes,No,No,No,Somewhat easy,Yes
+19,male,No,Yes,Sometimes,No,No,No,Somewhat easy,Don't know
+33,Male,Yes,Yes,Sometimes,Yes,No,No,Very easy,No
+32,male,No,No,Rarely,Yes,No,No,Very difficult,Don't know
+27,Male,No,No,Never,Not sure,Don't know,Don't know,Don't know,Don't know
+38,Male,No,No,NA,Yes,No,No,Somewhat easy,No
+24,Male,No,Yes,Never,No,No,No,Don't know,Don't know
+39,M,No,No,Never,No,No,No,Don't know,Don't know
+28,Male,No,No,Never,No,No,No,Very easy,Yes
+39,Male,No,Yes,Often,Not sure,No,No,Somewhat easy,Don't know
+29,Female,No,No,NA,No,No,Don't know,Somewhat easy,Don't know
+22,m,No,No,NA,No,Don't know,No,Somewhat easy,Don't know
+38,Male,Yes,Yes,Sometimes,No,Don't know,Don't know,Don't know,Don't know
+37,Male,No,Yes,Sometimes,Yes,Yes,Yes,Very difficult,Yes
+35,M,No,No,Never,Not sure,Don't know,Don't know,Don't know,Don't know
+-29,Male,No,No,NA,No,Don't know,Yes,Don't know,Don't know
+30,Female,Yes,No,NA,Not sure,No,Don't know,Don't know,Don't know
+37,Male,Yes,Yes,Rarely,Yes,Yes,Yes,Somewhat easy,Don't know
+24,M,No,No,Never,No,No,No,Don't know,Don't know
+23,Male,No,No,Sometimes,No,No,No,Somewhat easy,No
+30,male,No,Yes,Rarely,Yes,Yes,Yes,Somewhat easy,No
+29,Female,No,No,NA,Not sure,No,Don't know,Don't know,Don't know
+19,Male,Yes,No,NA,Not sure,No,Yes,Somewhat easy,Don't know
+32,male,Yes,No,Never,Not sure,No,No,Very easy,No
+28,male,No,No,Rarely,No,No,No,Don't know,Yes
+36,Male,No,No,Never,Not sure,Don't know,Don't know,Don't know,Don't know
+37,Male,Yes,Yes,Rarely,Yes,Yes,Yes,Somewhat difficult,No
+25,Male,Yes,Yes,Sometimes,No,No,Don't know,Somewhat difficult,No
+27,Male,Yes,Yes,Sometimes,No,No,Don't know,Don't know,Don't know
+26,male,No,No,Often,Not sure,No,No,Don't know,No
+27,male,No,Yes,Rarely,Yes,No,No,Somewhat difficult,Don't know
+25,Male,Yes,Yes,Sometimes,Not sure,No,No,Very easy,Don't know
+36,Male,No,Yes,Sometimes,Yes,Yes,Yes,Somewhat easy,Don't know
+25,F,Yes,Yes,Sometimes,No,No,No,Don't know,Don't know
+31,M,No,No,Never,No,No,Yes,Don't know,Don't know
+26,male,Yes,No,Rarely,No,No,No,Don't know,Don't know
+33,F,Yes,Yes,Sometimes,Yes,Yes,Yes,Very difficult,Yes
+34,Male,No,No,Never,No,No,No,Very easy,Don't know
+42,male,No,No,NA,Yes,No,No,Very difficult,No
+23,male,Yes,No,Sometimes,No,No,No,Very difficult,No
+24,Male,No,No,Rarely,Not sure,Yes,Don't know,Very easy,Don't know
+26,Male,No,Yes,Sometimes,Yes,Don't know,Don't know,Somewhat easy,Don't know
+31,Male,No,Yes,Often,No,No,No,Don't know,Don't know
+22,M,No,Yes,Never,Not sure,No,No,Very difficult,No
+23,Female,No,No,NA,No,No,Don't know,Don't know,Yes
+34,Female,Yes,Yes,Sometimes,Yes,Yes,No,Somewhat easy,No
+31,male,No,No,Never,Not sure,No,Don't know,Don't know,Don't know
+28,Male,No,No,NA,Not sure,No,Yes,Somewhat easy,Yes
+32,Female,No,Yes,Often,Not sure,Don't know,Don't know,Very easy,Yes
+45,F,No,Yes,Sometimes,No,No,No,Somewhat difficult,Yes
+33,Male,No,No,NA,No,No,No,Very easy,Don't know
+29,male,No,No,Never,No,No,No,Don't know,No
+26,f,No,No,Sometimes,No,No,No,Somewhat easy,Don't know
+28,Female,No,No,Never,No,No,Don't know,Somewhat easy,Don't know
+45,M,No,Yes,Sometimes,Not sure,Don't know,Don't know,Don't know,Don't know
+43,Male,Yes,Yes,Often,Not sure,No,Don't know,Very difficult,No
+37,male,No,No,NA,No,No,No,Don't know,No
+24,Male,No,No,Sometimes,No,No,Don't know,Somewhat easy,Yes
+26,Male,No,No,NA,Yes,No,No,Somewhat easy,Yes
+23,male,Yes,No,NA,No,No,No,Don't know,Don't know
+35,Female,Yes,Yes,Never,Not sure,Don't know,No,Somewhat easy,Don't know
+38,Female,Yes,Yes,Often,Yes,No,No,Somewhat easy,Don't know
+28,Male,Yes,Yes,Sometimes,No,No,No,Somewhat easy,No
+28,Male,No,No,Sometimes,No,No,No,Don't know,Don't know
+35,Male,No,Yes,Rarely,No,No,No,Don't know,Don't know
+32,female,No,No,Sometimes,No,No,No,Very difficult,No
+35,Female,No,No,Never,Not sure,No,No,Don't know,Don't know
+26,Male,No,No,Rarely,No,No,No,Somewhat easy,No
+27,Male,Yes,No,NA,Yes,No,No,Somewhat easy,Yes
+28,Male,Yes,Yes,Sometimes,No,No,No,Don't know,Don't know
+27,Female,Yes,Yes,Sometimes,No,No,No,Very easy,Yes
+34,female,No,Yes,Sometimes,Yes,Yes,Yes,Somewhat easy,Yes
+41,male,No,Yes,Often,Not sure,No,No,Very difficult,Don't know
+37,Male,No,No,Sometimes,Yes,No,No,Very difficult,Don't know
+34,male,Yes,No,NA,No,Don't know,Don't know,Very easy,Yes
+32,Male,Yes,Yes,Sometimes,Not sure,No,No,Somewhat difficult,No
+21,Male,No,Yes,Sometimes,Yes,No,No,Somewhat difficult,Yes
+30,M,No,Yes,Often,Yes,No,No,Somewhat easy,Don't know
+24,male,No,No,Never,Not sure,No,Don't know,Don't know,Don't know
+26,male,No,No,NA,No,No,No,Very easy,Don't know
+40,Female,No,No,NA,Yes,Yes,Yes,Somewhat easy,Yes
+37,Male,Yes,No,Sometimes,No,No,No,Don't know,Don't know
+26,Male,No,Yes,Often,No,No,No,Don't know,Don't know
+32,F,Yes,Yes,Sometimes,No,No,No,Don't know,No
+32,f,No,Yes,Sometimes,Yes,Don't know,Don't know,Very easy,Yes
+27,female,Yes,Yes,Sometimes,No,Don't know,Don't know,Very difficult,Don't know
+30,Male,No,Yes,Often,Yes,No,No,Very difficult,Yes
+31,M,No,No,NA,Yes,No,Don't know,Very easy,Yes
+29,F,No,Yes,Never,No,No,Don't know,Somewhat difficult,Don't know
+34,female,No,No,NA,No,No,No,Somewhat easy,Yes
+33,Male,No,No,NA,No,No,No,Don't know,Don't know
+28,male,No,No,Rarely,No,No,No,Don't know,Don't know
+28,Male,No,Yes,Sometimes,Yes,No,No,Very difficult,No
+23,Male,No,No,Never,Not sure,Don't know,Don't know,Don't know,Yes
+24,M,No,No,NA,No,Don't know,No,Very easy,Yes
+32,male,No,No,Rarely,Yes,No,No,Very difficult,Yes
+34,Male,No,No,Sometimes,Not sure,Yes,Yes,Somewhat difficult,Yes
+24,Male,No,No,Never,Not sure,No,Don't know,Very easy,Yes
+26,male,No,Yes,Sometimes,Yes,No,No,Don't know,Yes
+36,Male,No,Yes,Sometimes,No,No,Yes,Don't know,Don't know
+41,Male,No,Yes,Rarely,Yes,No,Don't know,Don't know,No
+38,Male,No,Yes,Sometimes,Not sure,Don't know,Don't know,Very difficult,No
+38,Male,No,No,Sometimes,Not sure,No,Don't know,Don't know,No
+30,male,No,No,NA,No,Don't know,Don't know,Somewhat easy,Yes
+25,Male,No,No,Never,No,No,No,Somewhat difficult,No
+37,Male,Yes,Yes,Often,Yes,No,Don't know,Don't know,Don't know
+34,Male,Yes,No,NA,No,No,No,Somewhat difficult,No
+37,F,Yes,Yes,Sometimes,Yes,Yes,Yes,Somewhat easy,Yes
+28,Female,Yes,Yes,Sometimes,Yes,Yes,Yes,Don't know,No
+22,Male,No,No,NA,No,No,No,Don't know,No
+34,male,Yes,Yes,Sometimes,No,No,No,Somewhat difficult,No
+33,M,Yes,Yes,Sometimes,Yes,Yes,Yes,Somewhat easy,Don't know
+25,Male,No,No,NA,No,No,No,Somewhat difficult,No
+27,Male,No,No,Never,Yes,Don't know,Don't know,Somewhat easy,Yes
+40,M,No,Yes,Sometimes,Yes,Yes,Yes,Don't know,No
+21,Male,No,Yes,Often,No,No,Don't know,Don't know,Don't know
+29,Male,No,No,NA,No,No,No,Very easy,Yes
+32,M,Yes,Yes,Sometimes,No,No,No,Don't know,Don't know
+29,f,Yes,Yes,Rarely,Yes,Yes,Don't know,Don't know,Don't know
+23,Male,Yes,Yes,Sometimes,No,No,Don't know,Somewhat easy,Yes
+28,Male,Yes,No,NA,No,No,Don't know,Somewhat easy,Yes
+31,male,Yes,Yes,Rarely,Yes,Yes,Don't know,Very easy,Yes
+27,Male,No,No,NA,Not sure,Don't know,Don't know,Very easy,Don't know
+24,Male,No,No,Sometimes,No,Don't know,Don't know,Don't know,Don't know
+29,Male,No,No,Often,No,No,No,Somewhat difficult,Don't know
+23,Female,No,Yes,Sometimes,Not sure,Don't know,Don't know,Don't know,Yes
+42,Male,No,No,Never,Yes,No,Yes,Somewhat easy,Yes
+24,Male,No,No,NA,No,No,No,Don't know,No
+25,Male,Yes,Yes,Often,Yes,No,No,Very difficult,No
+27,Female,No,Yes,Rarely,No,No,No,Don't know,Don't know
+27,Male,No,No,Sometimes,Yes,No,No,Very difficult,No
+30,Male,No,Yes,Sometimes,Yes,No,Yes,Don't know,Yes
+29,male,Yes,Yes,Rarely,Yes,No,No,Very difficult,No
+43,Male,No,No,NA,Not sure,No,No,Somewhat easy,Don't know
+32,male,No,No,NA,Yes,No,Don't know,Very easy,Don't know
+41,Male,No,Yes,Sometimes,Yes,Don't know,No,Very easy,Yes
+32,Male,Yes,Yes,Sometimes,Not sure,Don't know,Don't know,Very easy,Don't know
+37,Female,Yes,Yes,Often,Yes,No,No,Don't know,Don't know
+32,Male,No,No,Never,No,No,No,Very easy,Don't know
+30,Male,No,No,Sometimes,No,No,No,Somewhat difficult,No
+23,female,Yes,Yes,Never,No,Don't know,Don't know,Don't know,Yes
+30,Male,No,No,NA,Yes,Yes,Yes,Very easy,Yes
+34,male,No,No,Sometimes,Yes,No,No,Somewhat easy,Don't know
+38,Male,No,Yes,Rarely,No,No,No,Don't know,No
+33,Male,No,No,NA,No,Yes,Yes,Don't know,Don't know
+34,male,No,No,NA,No,No,No,Don't know,Don't know
+28,male,No,No,Sometimes,Yes,No,No,Somewhat easy,Don't know
+28,male,No,Yes,Rarely,Yes,Yes,Don't know,Very easy,Yes
+23,Male,Yes,No,Sometimes,No,No,Don't know,Don't know,No
+22,Male,Yes,Yes,Sometimes,Not sure,Yes,Yes,Somewhat easy,No
+27,male,No,No,Never,No,No,No,Don't know,Don't know
+18,male,No,Yes,Sometimes,No,No,Don't know,Don't know,Don't know
+35,male,Yes,Yes,Sometimes,Yes,No,No,Somewhat difficult,Don't know
+25,Male,No,No,NA,Not sure,No,No,Don't know,No
+27,Male,Yes,Yes,Sometimes,No,No,No,Somewhat easy,Yes
+26,Female,Yes,Yes,Rarely,Not sure,Don't know,Don't know,Don't know,Don't know
+18,Male,No,No,Never,Not sure,Don't know,Don't know,Very easy,Yes
+38,Female,No,Yes,Sometimes,Yes,No,No,Don't know,Don't know
+26,Female,Yes,Yes,Rarely,Yes,Yes,Don't know,Somewhat easy,Don't know
+30,Male,No,No,Never,No,No,No,Somewhat easy,Yes
+35,male,No,No,Never,No,No,Don't know,Don't know,Don't know
+45,male,Yes,Yes,Sometimes,Yes,Don't know,Don't know,Don't know,Don't know
+32,Male,No,No,Never,No,No,Don't know,Don't know,Don't know
+56,Male,No,Yes,Never,Not sure,Don't know,Don't know,Don't know,Don't know
+24,Female,No,No,NA,Not sure,No,Don't know,Don't know,No
+30,F,Yes,Yes,Sometimes,Yes,Yes,Don't know,Very easy,Yes
+60,male,No,No,NA,No,Don't know,Yes,Don't know,Yes
+33,Male,Yes,Yes,Sometimes,No,Yes,Yes,Don't know,Don't know
+37,M,No,No,Never,Yes,Yes,Yes,Don't know,Don't know
+23,Female,No,Yes,Sometimes,Yes,Yes,Yes,Don't know,Yes
+31,f,No,Yes,Sometimes,Not sure,Don't know,Don't know,Somewhat easy,Yes
+26,Male,No,No,Rarely,Not sure,No,Don't know,Don't know,Don't know
+28,female,Yes,Yes,Often,Yes,Yes,Yes,Somewhat easy,Yes
+37,F,No,Yes,Rarely,Yes,Don't know,Yes,Somewhat easy,Yes
+26,male,Yes,Yes,Often,No,No,Don't know,Don't know,Yes
+26,M,No,No,NA,No,No,No,Don't know,Don't know
+25,Male,No,No,NA,Not sure,No,Don't know,Don't know,Don't know
+27,Male,No,No,Sometimes,Not sure,Yes,Yes,Don't know,Don't know
+25,Male,No,Yes,Often,No,No,Don't know,Somewhat difficult,Don't know
+35,male,No,Yes,Rarely,Not sure,Don't know,Yes,Don't know,Don't know
+36,Male,No,Yes,Never,Yes,No,No,Somewhat easy,Yes
+26,Male,Yes,Yes,Sometimes,Not sure,No,Don't know,Don't know,No
+27,Male,Yes,No,NA,No,Don't know,Don't know,Very easy,Yes
+30,male,No,No,NA,Not sure,No,Don't know,Don't know,Don't know
+29,M,No,No,NA,Not sure,No,Don't know,Don't know,Don't know
+25,Male,No,No,Never,Yes,Yes,Yes,Very easy,Yes
+22,Female,Yes,Yes,Often,Yes,Yes,Yes,Somewhat easy,Yes
+29,male,No,No,NA,Yes,No,No,Somewhat easy,Don't know
+41,Male,Yes,Yes,Rarely,Yes,Don't know,Yes,Somewhat easy,Yes
+29,Male,No,Yes,Sometimes,No,No,Don't know,Don't know,No
+32,Male,No,No,Never,Not sure,Don't know,Yes,Somewhat easy,Yes
+24,female,Yes,Yes,Sometimes,Yes,No,Yes,Don't know,Don't know
+25,Male,No,Yes,Rarely,No,Don't know,No,Don't know,Don't know
+25,m,No,No,NA,Not sure,Don't know,Don't know,Don't know,Don't know
+30,Female,No,No,Never,Yes,Yes,Yes,Somewhat easy,Don't know
+25,Male,Yes,Yes,Sometimes,Not sure,Don't know,Yes,Don't know,Yes
+30,Male,No,No,Never,Yes,No,No,Don't know,Don't know
+33,male,Yes,Yes,Rarely,No,No,No,Somewhat difficult,Yes
+24,Male,No,No,NA,Not sure,Yes,Yes,Very easy,Yes
+25,Male,Yes,Yes,Sometimes,Yes,No,Don't know,Don't know,No
+31,Male,No,No,NA,No,No,No,Somewhat easy,No
+45,Male,No,Yes,Often,No,No,No,Very difficult,Don't know
+29,m,No,No,NA,Yes,No,No,Don't know,No
+46,M,No,No,Never,Not sure,Yes,Don't know,Very easy,Don't know
+30,Male,No,Yes,Sometimes,No,No,Don't know,Don't know,Don't know
+29,F,No,No,Sometimes,Not sure,Don't know,No,Very easy,Don't know
+24,Male,No,No,NA,Yes,Don't know,Don't know,Don't know,Don't know
+29,male,No,No,NA,Yes,Yes,Yes,Very easy,Yes
+35,Male,No,No,NA,Not sure,No,Don't know,Don't know,No
+33,f,Yes,No,Sometimes,Yes,No,No,Very difficult,No
+27,Male,No,No,Sometimes,Not sure,Don't know,Don't know,Very easy,No
+36,Male,No,No,NA,Not sure,Don't know,Don't know,Don't know,Don't know
+33,Male,No,No,Rarely,No,No,No,Don't know,No
+25,F,Yes,Yes,Sometimes,Yes,No,No,Don't know,Don't know
+23,Male,Yes,Yes,Sometimes,No,No,No,Don't know,Don't know
+54,M,Yes,Yes,Never,No,Yes,Yes,Don't know,Don't know
+22,Male,No,No,Sometimes,No,Don't know,Don't know,Don't know,Don't know
+29,Male,No,No,Often,No,No,No,Don't know,Don't know
+27,Male,No,Yes,Sometimes,Yes,Yes,Yes,Don't know,Yes
+30,Male,No,No,Never,No,No,Don't know,Very easy,Yes
+26,male,Yes,Yes,Often,Not sure,Don't know,Yes,Don't know,Don't know
+25,Female,Yes,No,Sometimes,Yes,Yes,No,Somewhat easy,No
+31,Male,No,Yes,Sometimes,Yes,No,Don't know,Don't know,No
+33,M,Yes,Yes,Sometimes,Not sure,No,No,Don't know,Don't know
+34,M,Yes,Yes,Sometimes,Yes,Don't know,Yes,Don't know,Don't know
+34,Male,No,Yes,Sometimes,No,No,No,Somewhat easy,Don't know
+29,M,No,No,NA,Yes,No,No,Very easy,Yes
+34,male,Yes,Yes,Rarely,No,No,Don't know,Somewhat difficult,Yes
+26,male,Yes,Yes,Rarely,No,No,Don't know,Don't know,No
+32,Male,Yes,Yes,Rarely,Yes,Yes,Yes,Don't know,Yes
+329,Male,No,Yes,Often,Yes,No,No,Don't know,No
+28,Male,Yes,Yes,Sometimes,Not sure,No,Don't know,Somewhat difficult,No
+35,Male,Yes,No,NA,No,Yes,Yes,Very easy,Don't know
+36,Male,Yes,Yes,Often,Yes,No,No,Very easy,Don't know
+21,Male,Yes,Yes,Rarely,No,No,Don't know,Don't know,Don't know
+21,Male,No,Yes,Sometimes,Not sure,No,No,Very easy,No
+22,F,No,No,NA,No,Yes,Yes,Somewhat easy,Yes
+41,m,Yes,Yes,Often,No,Yes,Yes,Somewhat difficult,No
+55,M,Yes,Yes,Rarely,Yes,Yes,Yes,Very easy,Yes
+32,F,No,Yes,Sometimes,Yes,Yes,Yes,Somewhat easy,Yes
+21,F,Yes,Yes,Rarely,Not sure,Don't know,No,Somewhat easy,Don't know
+45,M,No,Yes,Never,Yes,Don't know,Don't know,Don't know,Don't know
+27,female,No,Yes,Rarely,Yes,No,No,Don't know,No
+25,Female,Yes,Yes,Sometimes,No,No,No,Don't know,Yes
+26,F,Yes,Yes,Never,Yes,No,Yes,Don't know,Don't know
+41,Male,No,Yes,Never,Not sure,No,Don't know,Somewhat easy,Don't know
+27,Male,No,Yes,Rarely,No,Yes,Yes,Don't know,Yes
+25,Male,Yes,Yes,Often,No,No,No,Somewhat easy,No
+26,M,No,Yes,Sometimes,No,No,No,Don't know,No
+27,female,Yes,Yes,Rarely,Yes,No,Don't know,Don't know,Don't know
+42,Male,No,No,Never,Not sure,No,No,Don't know,Don't know
+25,female,No,Yes,Sometimes,Not sure,No,No,Somewhat difficult,Don't know
+33,Female,Yes,Yes,Rarely,Yes,No,Yes,Don't know,Don't know
+40,female,Yes,Yes,Rarely,No,Don't know,Don't know,Somewhat easy,Don't know
+31,Male,No,No,Never,No,No,Don't know,Somewhat easy,Don't know
+26,Male,Yes,Yes,Often,No,Don't know,Don't know,Very easy,Yes
+24,female,Yes,No,NA,No,No,No,Very difficult,No
+29,Male,No,No,Never,Not sure,No,Don't know,Don't know,Don't know
+48,M,No,No,NA,No,No,No,Don't know,No
+35,Male,No,No,Sometimes,No,No,No,Very difficult,No
+32,female,No,No,Never,Not sure,No,No,Don't know,Don't know
+29,Male,No,Yes,Sometimes,Not sure,Don't know,Don't know,Somewhat easy,Yes
+26,Male,Yes,Yes,Often,Yes,No,No,Somewhat difficult,No
+28,Male,Yes,Yes,Sometimes,Yes,No,No,Don't know,No
+23,male,No,No,NA,No,No,Don't know,Don't know,No
+35,M,Yes,Yes,Sometimes,Yes,No,No,Very difficult,No
+29,male,Yes,Yes,Sometimes,No,No,No,Very easy,Don't know
+26,Male,Yes,No,NA,Yes,No,Yes,Very easy,No
+33,Male,Yes,Yes,Never,Yes,Yes,Yes,Don't know,Yes
+33,Male,No,No,NA,No,Don't know,Don't know,Don't know,Yes
+22,Male,No,No,Never,No,No,No,Somewhat easy,Don't know
+30,female,Yes,No,NA,No,No,No,Don't know,Don't know
+33,male,Yes,Yes,Often,Yes,No,No,Somewhat easy,No
+31,Female,Yes,Yes,Rarely,Not sure,No,Don't know,Very difficult,No
+21,male,Yes,No,Never,Not sure,Don't know,Don't know,Don't know,Don't know
+26,F,No,Yes,Sometimes,Not sure,Don't know,Don't know,Somewhat difficult,Yes
+30,Male,Yes,No,Often,No,No,Don't know,Somewhat easy,Don't know
+23,Male,No,No,NA,No,No,No,Don't know,No
+34,Male,No,No,Never,No,No,No,Somewhat easy,Don't know
+55,M,Yes,Yes,Sometimes,Yes,No,Don't know,Don't know,No
+28,male,Yes,Yes,Rarely,No,No,No,Very easy,Yes
+26,M,No,No,NA,No,Don't know,No,Don't know,Don't know
+28,Male,Yes,Yes,Sometimes,Yes,Yes,No,Very easy,Yes
+32,Male,Yes,Yes,Sometimes,No,No,Don't know,Somewhat easy,Don't know
+28,Female,No,Yes,Rarely,Yes,No,Don't know,Don't know,Don't know
+21,M,No,No,Sometimes,Not sure,No,Yes,Don't know,Yes
+24,Male,Yes,Yes,Sometimes,Yes,No,No,Somewhat difficult,No
+26,Female,No,No,NA,Not sure,Yes,Don't know,Don't know,Don't know
+23,Male,No,No,NA,No,No,No,Don't know,Don't know
+24,Female,No,No,NA,Yes,Yes,Yes,Somewhat easy,Yes
+28,Male,No,No,Never,No,No,No,Somewhat easy,Yes
+24,F,Yes,Yes,Rarely,No,No,No,Very easy,Yes
+33,male,No,Yes,Often,No,No,No,Somewhat easy,Don't know
+34,male,No,No,Sometimes,No,No,No,Don't know,Don't know
+27,female,No,Yes,Sometimes,Not sure,No,No,Somewhat difficult,Don't know
+28,Male,No,No,Never,No,No,Don't know,Don't know,Don't know
+26,Male,No,No,NA,Not sure,Don't know,Don't know,Don't know,Don't know
+20,Male,No,No,NA,Not sure,Don't know,Don't know,Very easy,Don't know
+23,female,No,Yes,Sometimes,Yes,No,Don't know,Don't know,Don't know
+29,Male,Yes,Yes,Rarely,Yes,Yes,Yes,Somewhat easy,Yes
+26,Male,Yes,No,Sometimes,No,No,No,Don't know,No
+36,Male,No,No,Rarely,No,Yes,Don't know,Somewhat easy,Don't know
+41,m,No,Yes,Sometimes,Yes,Yes,Yes,Don't know,Yes
+33,female,No,No,NA,No,Don't know,No,Don't know,Yes
+23,M,Yes,Yes,Sometimes,Yes,No,No,Very easy,Yes
+39,Male,Yes,No,Often,No,No,Don't know,Don't know,No
+34,M,Yes,No,NA,Not sure,Don't know,Don't know,Don't know,Don't know
+26,F,No,Yes,Sometimes,Yes,No,No,Somewhat difficult,No
+24,Male,No,Yes,Rarely,Yes,Yes,No,Don't know,Don't know
+37,Male,Yes,Yes,Rarely,Yes,Yes,Yes,Don't know,Don't know
+43,Male,Yes,Yes,Often,Yes,No,No,Very easy,Yes
+40,Genderqueer,Yes,No,Never,Yes,Yes,Don't know,Don't know,Yes
+30,male,Yes,Yes,Often,Yes,Yes,No,Very difficult,No
+34,M,No,Yes,Sometimes,Not sure,No,No,Don't know,Don't know
+27,Male,Yes,Yes,Sometimes,Not sure,No,Don't know,Don't know,Don't know
+36,Male,No,No,Sometimes,No,No,No,Somewhat easy,Don't know
+27,Male,No,No,Rarely,Yes,No,No,Somewhat easy,No
+35,Male,Yes,No,Never,No,No,No,Don't know,Don't know
+32,Male,No,No,Never,No,No,No,Don't know,Yes
+37,M,No,No,NA,No,No,No,Don't know,Don't know
+29,Male,No,No,NA,No,Don't know,Don't know,Don't know,Yes
+26,Female,Yes,No,Never,Not sure,No,No,Somewhat difficult,No
+27,M,Yes,Yes,Sometimes,No,Yes,Don't know,Somewhat easy,Yes
+38,Male,No,Yes,Sometimes,No,No,No,Somewhat easy,Yes
+57,M,Yes,Yes,Rarely,Yes,No,No,Don't know,No
+28,Male,No,Yes,Sometimes,No,No,No,Very difficult,No
+26,male,No,No,Never,Yes,No,No,Don't know,No
+42,f,No,Yes,Rarely,Yes,No,No,Don't know,Don't know
+31,Male,No,Yes,Sometimes,Yes,Yes,Yes,Very easy,Yes
+58,Male,No,Yes,Rarely,Yes,Yes,Yes,Somewhat easy,Yes
+29,Male,No,No,Sometimes,No,No,No,Very difficult,No
+39,Female,No,Yes,Sometimes,Yes,No,Yes,Don't know,No
+34,Male,No,No,Sometimes,No,No,No,Very difficult,Don't know
+57,Male,No,Yes,Sometimes,Not sure,Yes,Yes,Don't know,Don't know
+27,Male,Yes,Yes,Sometimes,Not sure,No,No,Somewhat difficult,No
+23,male,Yes,Yes,Often,No,Don't know,Don't know,Don't know,Don't know
+18,male,No,No,NA,No,No,Don't know,Very easy,Don't know
+30,female,No,No,NA,Not sure,No,No,Don't know,Don't know
+23,Male,No,No,Never,Not sure,Don't know,Don't know,Don't know,Yes
+43,M,No,Yes,Sometimes,Yes,Yes,Yes,Somewhat easy,Don't know
+18,Female,Yes,Yes,Sometimes,Not sure,Don't know,Don't know,Don't know,Don't know
+29,male,No,Yes,Rarely,Yes,No,No,Don't know,Don't know
+48,M,No,No,Never,No,No,Don't know,Don't know,Don't know
+43,male,No,Yes,Sometimes,Yes,Don't know,No,Somewhat easy,No
+28,Female,Yes,Yes,Sometimes,Not sure,No,No,Don't know,Don't know
+30,Male,Yes,Yes,Often,Yes,No,No,Very easy,Yes
+26,Male,No,No,Sometimes,No,No,No,Very easy,Yes
+33,Male,No,No,Never,No,No,No,Don't know,No
+31,Male,No,No,NA,Not sure,Don't know,Don't know,Don't know,Yes
+30,M,No,No,Rarely,Not sure,No,No,Don't know,Don't know
+27,Male,No,No,NA,No,No,No,Somewhat difficult,No
+24,Female,Yes,Yes,Sometimes,No,Don't know,Don't know,Don't know,Don't know
+25,male,No,No,NA,Not sure,Don't know,Don't know,Don't know,Don't know
+23,Female,Yes,Yes,Often,Not sure,Don't know,No,Don't know,Yes
+36,m,No,Yes,Sometimes,Not sure,No,No,Somewhat difficult,No
+25,female,Yes,Yes,Often,Not sure,No,No,Somewhat difficult,No
+54,Male,No,Yes,Sometimes,Yes,Yes,Yes,Very easy,No
+34,Male,No,No,Rarely,Not sure,Don't know,Don't know,Somewhat easy,Yes
+38,female,No,Yes,NA,Yes,No,No,Don't know,No
+40,Male,Yes,No,NA,No,No,No,Don't know,No
+32,male,No,No,NA,Not sure,No,Don't know,Don't know,Don't know
+25,Male,No,No,Never,Not sure,Don't know,Yes,Don't know,Don't know
+35,Female,No,Yes,Sometimes,Yes,No,No,Don't know,No
+46,male,No,Yes,Sometimes,Yes,Yes,Yes,Don't know,Yes
+42,male,No,No,Never,No,Yes,No,Very difficult,No
+32,male,Yes,Yes,Sometimes,No,No,No,Don't know,Yes
+47,M,Yes,Yes,Sometimes,Yes,Yes,Yes,Very easy,Yes
+22,Male,No,No,NA,Not sure,Yes,Don't know,Don't know,Yes
+33,Female,No,Yes,Sometimes,Yes,Yes,Yes,Very easy,Don't know
+25,f,No,No,Sometimes,No,No,No,Somewhat easy,Yes
+29,M,No,No,NA,Not sure,No,Don't know,Don't know,Don't know
+39,Male,No,No,Never,Yes,Yes,Yes,Very easy,Yes
+38,male,Yes,Yes,Sometimes,Not sure,Yes,Yes,Don't know,No
+43,Male,No,No,NA,No,No,Don't know,Don't know,Don't know
+46,Male,No,Yes,Rarely,Not sure,Yes,Yes,Don't know,Yes
+38,Female,Yes,Yes,Sometimes,Yes,Yes,Yes,Very easy,No
+33,Male,No,Yes,Sometimes,Yes,No,No,Very easy,No
+34,Male,Yes,Yes,Often,Yes,No,No,Very easy,No
+62,M,No,No,Never,Yes,Don't know,Yes,Don't know,Yes
+23,F,No,No,NA,Not sure,Don't know,Don't know,Don't know,Don't know
+35,Male,No,No,NA,No,No,No,Don't know,No
+25,Male,Yes,No,Rarely,Not sure,Don't know,Don't know,Don't know,Don't know
+36,M,Yes,Yes,Sometimes,Yes,Don't know,No,Somewhat difficult,Yes
+41,Female,Yes,Yes,Rarely,Yes,Yes,Yes,Very easy,Yes
+24,male,No,No,Sometimes,Yes,Don't know,Don't know,Somewhat easy,Yes
+51,Male,No,Yes,Sometimes,Yes,Yes,No,Somewhat difficult,Don't know
+29,M,No,Yes,Sometimes,Yes,No,Yes,Very easy,Yes
+31,Female,Yes,Yes,Sometimes,Not sure,Don't know,Don't know,Don't know,Yes
+27,Male,No,No,NA,No,No,No,Don't know,Don't know
+31,Male,No,Yes,Rarely,Yes,Yes,Yes,Somewhat easy,No
+27,female,Yes,No,Sometimes,No,No,No,Very difficult,No
+23,Male,No,No,Rarely,No,No,Don't know,Very easy,Yes
+21,Male,No,No,Never,Not sure,Don't know,No,Don't know,Don't know
+27,Female,Yes,Yes,Sometimes,Yes,No,No,Somewhat difficult,No
+39,M,Yes,Yes,Often,Yes,Yes,Yes,Somewhat easy,No
+26,M,Yes,Yes,Never,No,No,Don't know,Don't know,No
+27,Male,No,No,Never,No,No,No,Don't know,Don't know
+22,Female,Yes,Yes,Sometimes,Yes,No,Don't know,Don't know,No
+26,F,Yes,Yes,Often,No,No,No,Somewhat difficult,No
+31,Female,Yes,Yes,Rarely,Yes,No,No,Somewhat easy,Yes
+32,male,No,No,Never,No,No,No,Don't know,Yes
+28,female,Yes,Yes,Often,No,No,Don't know,Don't know,No
+28,Androgyne,Yes,Yes,Rarely,Not sure,No,No,Somewhat difficult,No
+23,female,No,No,NA,Not sure,No,No,Very easy,Yes
+30,Male,No,No,Never,Not sure,Don't know,Don't know,Very easy,Yes
+36,Male,Yes,Yes,Sometimes,No,No,Yes,Somewhat difficult,No
+21,M,Yes,No,NA,Yes,Yes,Yes,Don't know,Yes
+30,male,No,No,Often,No,Don't know,No,Somewhat easy,Don't know
+32,Male,No,Yes,Sometimes,No,No,No,Very easy,Don't know
+29,female,No,Yes,Sometimes,No,No,No,Don't know,Yes
+21,Agender,No,Yes,Sometimes,Yes,Yes,No,Somewhat easy,Yes
+27,Female,Yes,Yes,Rarely,No,No,No,Somewhat easy,Don't know
+32,Female,No,Yes,Often,Not sure,Don't know,Don't know,Don't know,Don't know
+34,M,No,No,Sometimes,Yes,Yes,Yes,Very easy,Yes
+33,M,No,No,NA,No,Don't know,Don't know,Don't know,Don't know
+22,Male,Yes,Yes,Sometimes,Not sure,No,Don't know,Somewhat easy,Yes
+24,M,No,No,NA,Not sure,Don't know,Don't know,Don't know,Yes
+65,Male,No,No,NA,No,No,No,Very easy,Yes
+27,Male,Yes,Yes,Sometimes,No,No,Don't know,Don't know,Yes
+33,Male,No,No,Never,Not sure,Don't know,Don't know,Very easy,Yes
+36,Male,No,Yes,Rarely,Not sure,No,Don't know,Don't know,Don't know
+40,Male,No,No,Never,No,No,No,Somewhat difficult,No
+28,male,No,Yes,Sometimes,Yes,No,No,Somewhat difficult,No
+39,Male,No,Yes,Sometimes,Not sure,Yes,Don't know,Don't know,Don't know
+32,Male,No,Yes,Sometimes,No,No,Yes,Somewhat easy,Don't know
+31,male,Yes,No,Sometimes,Not sure,Don't know,Don't know,Somewhat easy,No
+23,Male,Yes,Yes,Rarely,Yes,No,No,Don't know,Yes
+27,Female,No,No,Sometimes,Not sure,Don't know,Yes,Don't know,Yes
+26,Female,Yes,Yes,Sometimes,Yes,No,No,Somewhat difficult,No
+50,Male,No,No,Never,Yes,No,No,Don't know,No
+37,Male,Yes,No,Never,No,No,Don't know,Somewhat easy,Yes
+23,Male,No,No,NA,No,Don't know,No,Don't know,Don't know
+33,M,Yes,No,Sometimes,Not sure,No,No,Very easy,Yes
+29,male,No,No,Never,Yes,No,No,Very difficult,No
+34,Male,Yes,Yes,Sometimes,No,No,No,Don't know,Don't know
+41,male,Yes,Yes,Often,No,No,No,Don't know,Don't know
+50,Male,Yes,No,NA,No,No,Don't know,Don't know,Don't know
+29,Male,No,Yes,Never,Not sure,Yes,Yes,Somewhat difficult,Don't know
+35,Male,No,No,Never,Yes,No,No,Very easy,Yes
+27,Male,No,No,Sometimes,No,No,No,Don't know,No
+40,Female,No,No,Never,Not sure,No,No,Somewhat easy,Don't know
+27,Male,No,Yes,Often,No,No,No,Don't know,No
+29,f,No,No,Never,Yes,Yes,No,Don't know,Don't know
+31,Male,Yes,Yes,Sometimes,No,No,No,Somewhat easy,Don't know
+43,Male,No,Yes,Sometimes,Yes,No,No,Somewhat easy,Don't know
+34,Male,Yes,Yes,Sometimes,Yes,No,No,Don't know,Don't know
+29,Male,Yes,Yes,Sometimes,No,No,No,Somewhat difficult,Don't know
+19,Male,Yes,Yes,Sometimes,No,No,No,Don't know,Don't know
+41,m,Yes,Yes,Sometimes,Not sure,Yes,Yes,Don't know,No
+29,Male,Yes,No,Never,Yes,Yes,Yes,Don't know,Yes
+23,Male,No,No,Rarely,Not sure,Don't know,Don't know,Don't know,Yes
+24,Female,Yes,Yes,Sometimes,Not sure,No,No,Somewhat difficult,No
+31,M,No,No,NA,No,No,Don't know,Don't know,Don't know
+43,Male,No,No,NA,Not sure,Don't know,Don't know,Don't know,Yes
+31,Male,Yes,Yes,Rarely,No,No,Don't know,Somewhat difficult,No
+29,Male,Yes,No,Often,Yes,Yes,Yes,Don't know,Don't know
+35,Male,Yes,No,NA,No,Yes,Yes,Very easy,Yes
+33,Male,Yes,Yes,Sometimes,Not sure,No,No,Somewhat difficult,No
+27,male,No,No,NA,Not sure,Don't know,Don't know,Don't know,No
+32,Male,No,No,Sometimes,Yes,No,No,Don't know,No
+50,Male,No,No,Sometimes,No,No,Don't know,Don't know,Don't know
+24,male,No,No,Never,Not sure,No,No,Don't know,No
+27,Male,No,No,NA,No,No,No,Don't know,Yes
+27,Male,No,No,Never,No,No,No,Don't know,Don't know
+32,Male,No,Yes,Sometimes,Yes,No,No,Somewhat easy,Yes
+42,Male,No,No,Rarely,Yes,No,No,Very easy,Yes
+37,Male,No,No,Often,No,No,No,Don't know,No
+30,Male,No,No,Sometimes,Not sure,No,No,Somewhat easy,No
+29,Male,No,No,Rarely,No,No,No,Very easy,Don't know
+30,Male,No,Yes,Often,Not sure,No,Yes,Somewhat difficult,Yes
+35,Male,No,No,Never,No,Yes,Don't know,Don't know,Yes
+35,Male,Yes,Yes,Rarely,Yes,No,No,Very difficult,No
+38,male,Yes,No,Often,Not sure,No,Don't know,Don't know,Don't know
+22,Male,Yes,Yes,Sometimes,Yes,No,No,Very easy,Yes
+24,m,Yes,No,Sometimes,No,No,No,Somewhat easy,Don't know
+22,M,No,No,Never,Not sure,No,No,Don't know,No
+31,Female,No,Yes,Often,Yes,No,No,Very easy,Don't know
+23,female,Yes,Yes,Sometimes,Yes,Yes,Yes,Somewhat easy,Don't know
+31,Female,Yes,Yes,Sometimes,No,No,No,Don't know,Don't know
+28,Female,Yes,Yes,Rarely,Yes,Yes,Yes,Somewhat difficult,No
+34,male,Yes,Yes,Sometimes,Yes,No,No,Somewhat easy,No
+28,Male,Yes,Yes,Sometimes,Not sure,No,Don't know,Don't know,Don't know
+24,Female,No,Yes,Sometimes,No,No,No,Don't know,Don't know
+31,Male,No,No,Sometimes,No,No,No,Very easy,Yes
+34,female,No,Yes,Sometimes,Yes,No,Don't know,Somewhat easy,Yes
+35,m,No,Yes,Rarely,No,Yes,Don't know,Very easy,Yes
+28,male,No,No,Never,No,No,No,Somewhat easy,Don't know
+36,male,Yes,Yes,Often,No,No,No,Somewhat easy,Yes
+30,Male,No,Yes,Often,No,No,No,Somewhat easy,Yes
+35,Male,No,No,NA,Not sure,No,No,Very easy,Yes
+49,male,Yes,Yes,Sometimes,Yes,Yes,No,Somewhat difficult,No
+36,Male,No,No,NA,Yes,No,No,Very easy,Yes
+35,male,No,No,NA,No,No,No,Very easy,Don't know
+29,Female,Yes,Yes,Sometimes,Yes,Yes,Yes,Somewhat difficult,No
+57,Male,No,No,Never,Yes,No,Yes,Somewhat difficult,Don't know
+31,female,Yes,Yes,Rarely,No,No,No,Don't know,Don't know
+37,Male,No,No,Never,No,No,No,Don't know,Don't know
+25,Male,Yes,Yes,Sometimes,No,No,No,Don't know,No
+30,Male,No,No,Sometimes,No,No,No,Very easy,Don't know
+26,F,Yes,No,Sometimes,Yes,Yes,Yes,Somewhat easy,Don't know
+22,Female,No,No,Often,No,No,No,Don't know,Don't know
+39,M,No,No,Rarely,No,Yes,Yes,Don't know,Don't know
+29,Male,Yes,Yes,Never,Not sure,Don't know,Don't know,Don't know,No
+54,male,Yes,Yes,Sometimes,Not sure,No,No,Very easy,Don't know
+34,Female,Yes,No,Never,No,Yes,Yes,Don't know,Don't know
+32,M,No,Yes,Never,Not sure,Yes,Yes,Very easy,Yes
+25,Male,No,No,NA,No,No,No,Don't know,Don't know
+29,male,No,No,Rarely,No,No,No,Somewhat difficult,Yes
+32,male,No,No,Never,No,No,No,Don't know,Don't know
+30,M,Yes,Yes,Sometimes,Yes,No,Don't know,Don't know,Yes
+31,male,No,No,NA,No,No,Don't know,Somewhat easy,Don't know
+20,F,No,No,Rarely,Yes,Yes,Yes,Somewhat easy,Yes
+27,Male,No,No,Never,No,No,Don't know,Don't know,Don't know
+32,Male,No,No,Never,Not sure,Don't know,Don't know,Don't know,Don't know
+26,Male,No,No,Never,No,No,No,Somewhat difficult,Yes
+30,Male,No,No,Sometimes,No,No,No,Very easy,Don't know
+30,Male,No,Yes,Sometimes,No,Don't know,No,Very difficult,No
+22,male,No,No,NA,No,Don't know,Don't know,Very easy,Yes
+24,male,No,No,NA,Not sure,Don't know,Don't know,Don't know,Don't know
+26,m,No,No,Never,No,No,No,Don't know,Don't know
+43,male,No,No,NA,No,No,No,Don't know,Don't know
+26,Male,No,No,Never,Not sure,No,Don't know,Somewhat difficult,Don't know
+23,Male,Yes,No,Sometimes,Not sure,No,Don't know,Don't know,Don't know
+26,female,Yes,No,Never,No,Don't know,Don't know,Don't know,Yes
+35,Male,Yes,No,Sometimes,No,No,No,Don't know,No
+28,Male,No,Yes,Sometimes,Not sure,No,Don't know,Don't know,Don't know
+22,Male,No,No,NA,No,No,No,Don't know,Don't know
+29,Female,Yes,Yes,Rarely,No,No,No,Don't know,Don't know
+29,Male,No,No,NA,Yes,No,No,Very easy,Yes
+45,Male,No,Yes,Often,Not sure,No,Yes,Very easy,Yes
+33,male,No,Yes,Rarely,No,No,No,Somewhat easy,Don't know
+38,Male,No,Yes,Sometimes,Yes,Yes,Yes,Don't know,Don't know
+19,Trans woman,Yes,Yes,Often,Not sure,No,No,Somewhat difficult,No
+29,female,No,Yes,Rarely,Yes,Yes,Don't know,Somewhat easy,Don't know
+21,Female,No,No,NA,No,No,No,Don't know,Don't know
+23,Female,Yes,Yes,Sometimes,Not sure,No,Don't know,Don't know,Don't know
+33,female,Yes,Yes,Rarely,Yes,Yes,Yes,Somewhat easy,Yes
+49,Male,Yes,Yes,Sometimes,Not sure,Yes,Yes,Somewhat easy,Yes
+28,Male,No,No,NA,No,No,No,Don't know,Don't know
+27,f,No,Yes,Sometimes,Not sure,Yes,Don't know,Very easy,Yes
+23,male,No,Yes,Sometimes,No,No,No,Somewhat easy,Don't know
+29,M,No,No,Never,No,No,No,Somewhat easy,Yes
+30,m,No,No,NA,No,No,Don't know,Somewhat easy,Don't know
+28,Female,No,No,NA,Not sure,Don't know,Don't know,Somewhat easy,Don't know
+32,Male,No,No,NA,No,No,No,Don't know,No
+32,Male,No,Yes,Sometimes,Yes,No,No,Very easy,Yes
+37,Male,No,No,NA,No,No,No,Somewhat easy,No
+39,F,No,No,NA,Yes,No,No,Very difficult,No
+31,male,No,No,NA,No,No,Don't know,Don't know,Yes
+29,Male,No,No,NA,No,No,Don't know,Somewhat difficult,Don't know
+30,M,No,No,NA,No,No,Don't know,Don't know,Don't know
+33,M,Yes,Yes,Rarely,Yes,Yes,Yes,Very difficult,Yes
+37,male,Yes,Yes,Sometimes,Yes,Don't know,Don't know,Don't know,Don't know
+23,Male,No,Yes,Often,Yes,Yes,No,Somewhat easy,Yes
+43,M,Yes,Yes,Sometimes,Not sure,No,Yes,Somewhat easy,No
+32,Male,No,Yes,Rarely,No,No,No,Don't know,No
+26,Male,No,No,Never,Not sure,No,No,Don't know,No
+32,Male,No,Yes,Sometimes,Not sure,Don't know,Don't know,Very easy,Don't know
+37,F,No,No,NA,Not sure,No,Don't know,Don't know,Don't know
+29,Male,No,Yes,Often,Yes,No,No,Very easy,Yes
+34,Male,No,No,NA,No,No,No,Somewhat easy,Don't know
+27,male,No,No,NA,Not sure,Don't know,Don't know,Don't know,Yes
+30,male,Yes,No,Never,No,No,Don't know,Very easy,Don't know
+29,Male,No,No,Never,Yes,No,Yes,Don't know,No
+32,Male,Yes,Yes,Sometimes,Yes,Don't know,Don't know,Very difficult,No
+-1726,male,No,Yes,Sometimes,No,No,No,Somewhat difficult,Don't know
+25,Male,No,No,NA,Yes,Don't know,Yes,Somewhat easy,Yes
+37,male,No,No,NA,Yes,Yes,No,Somewhat easy,Yes
+29,Male,Yes,No,NA,No,No,No,Very easy,Yes
+33,Male,No,No,NA,No,No,No,Don't know,Don't know
+30,male,Yes,Yes,Sometimes,No,No,No,Very difficult,No
+29,male,No,No,NA,Yes,No,No,Somewhat difficult,Don't know
+25,Male,Yes,Yes,Never,No,Yes,Don't know,Don't know,No
+33,Male,Yes,Yes,Sometimes,Yes,No,No,Don't know,Don't know
+31,Male,No,No,Never,No,No,No,Don't know,No
+21,male,No,No,Rarely,No,No,No,Very easy,No
+30,Male,Yes,Yes,Sometimes,No,No,No,Very difficult,No
+29,Male,No,No,NA,Not sure,Don't know,Don't know,Don't know,No
+43,Male,No,Yes,Sometimes,No,No,No,Very difficult,No
+37,m,No,Yes,Often,No,No,No,Don't know,No
+24,Male,No,No,NA,No,Yes,No,Don't know,Don't know
+29,Male,No,No,NA,Not sure,No,No,Very easy,Don't know
+31,Male,No,No,NA,Yes,Yes,Yes,Don't know,Don't know
+5,Male,No,No,NA,Not sure,No,No,Somewhat easy,Yes
+33,Male,No,No,Never,Not sure,No,No,Very easy,No
+43,male,No,No,NA,Yes,Don't know,Yes,Don't know,Don't know
+33,Male,No,Yes,Sometimes,Not sure,No,No,Don't know,Don't know
+27,Male,No,No,NA,No,No,Yes,Don't know,Yes
+36,Male,Yes,Yes,Sometimes,No,Don't know,Don't know,Don't know,Don't know
+37,male,Yes,Yes,Sometimes,Yes,No,No,Very easy,Yes
+32,male,No,No,NA,Yes,No,No,Very difficult,No
+39,Male,No,Yes,Sometimes,No,No,No,Very easy,Yes
+31,Male,Yes,Yes,Sometimes,Yes,No,Don't know,Somewhat easy,Don't know
+36,Male,No,Yes,Sometimes,Yes,No,No,Very difficult,Don't know
+30,Male,No,Yes,Sometimes,Not sure,Don't know,Don't know,Don't know,Don't know
+28,male,No,No,NA,Not sure,No,Don't know,Very easy,Yes
+32,Male,No,No,NA,No,No,No,Somewhat difficult,No
+35,Male,Yes,Yes,Rarely,Yes,Yes,Yes,Very easy,Yes
+19,Male,No,Yes,Sometimes,Not sure,No,No,Somewhat difficult,Don't know
+33,m,Yes,No,NA,Yes,No,No,Very easy,Don't know
+42,male,No,No,NA,Not sure,Yes,Yes,Very easy,Yes
+37,Male,Yes,Yes,Sometimes,Not sure,Don't know,Don't know,Don't know,Don't know
+40,Male,No,No,Never,No,No,No,Very easy,Yes
+36,M,No,No,Never,Yes,Yes,Yes,Very easy,Yes
+29,Female,Yes,Yes,Sometimes,No,No,Don't know,Don't know,Don't know
+38,f,Yes,Yes,Sometimes,Not sure,No,Don't know,Don't know,Don't know
+26,M,Yes,Yes,Sometimes,No,Yes,Don't know,Somewhat difficult,No
+34,male,No,No,Rarely,No,No,No,Somewhat easy,Yes
+21,Male,No,Yes,Often,Yes,No,No,Don't know,No
+31,Male,Yes,No,Sometimes,Yes,No,No,Somewhat easy,Yes
+37,Female,Yes,Yes,Rarely,Yes,Yes,Yes,Don't know,Yes
+37,Male,Yes,Yes,Sometimes,No,No,No,Very easy,Yes
+38,Male,Yes,Yes,Sometimes,No,No,No,Very difficult,No
+27,Female,No,Yes,Sometimes,Not sure,Yes,Don't know,Somewhat easy,No
+39,Male,No,No,NA,No,Yes,No,Somewhat easy,Yes
+33,Female,Yes,Yes,Sometimes,Yes,Yes,Yes,Somewhat easy,No
+27,Male,No,No,Never,Not sure,No,Don't know,Somewhat easy,Don't know
+36,F,No,Yes,Never,No,No,No,Don't know,No
+28,Male,No,No,Never,Not sure,No,No,Somewhat easy,Don't know
+39,male,No,Yes,Sometimes,No,No,No,Don't know,Don't know
+33,Male,Yes,Yes,Sometimes,Yes,No,No,Very easy,Yes
+32,Male,No,No,NA,Not sure,No,Don't know,Don't know,Don't know
+28,Male,No,No,NA,Not sure,No,Don't know,Don't know,No
+37,Male,Yes,Yes,Rarely,No,No,No,Somewhat easy,No
+39,Male,No,Yes,Sometimes,Yes,Yes,Yes,Very easy,No
+27,Female,No,No,NA,Not sure,No,Yes,Don't know,Don't know
+31,Female,No,No,NA,No,No,No,Don't know,Don't know
+43,Male,No,Yes,Never,No,No,Don't know,Don't know,Don't know
+33,Male,No,Yes,Sometimes,Yes,No,No,Somewhat difficult,Don't know
+34,male,Yes,Yes,Sometimes,Not sure,Don't know,Don't know,Very easy,Yes
+33,M,No,No,NA,No,No,No,Don't know,Don't know
+25,Male,No,No,NA,No,No,No,Don't know,Don't know
+25,Male,Yes,Yes,Sometimes,Yes,Yes,Yes,Don't know,No
+32,Male,Yes,No,NA,Yes,No,No,Somewhat easy,No
+25,Male,Yes,Yes,Sometimes,Yes,Don't know,Don't know,Don't know,Don't know
+37,Male,No,No,NA,No,Don't know,Don't know,Somewhat easy,Don't know
+39,m,No,Yes,Never,Yes,Yes,Yes,Somewhat easy,Yes
+29,M,No,No,Rarely,Not sure,No,No,Somewhat easy,Don't know
+33,Male,No,Yes,Sometimes,Yes,Don't know,Don't know,Don't know,Don't know
+37,female,No,Yes,Often,Not sure,No,No,Somewhat difficult,No
+35,Female,No,Yes,Sometimes,No,No,No,Very difficult,No
+22,Female,Yes,Yes,Sometimes,Not sure,Don't know,Don't know,Very difficult,No
+38,Male,No,No,Never,Yes,No,No,Somewhat easy,No
+32,Female,Yes,Yes,Often,No,No,Don't know,Don't know,Don't know
+28,Male,No,No,NA,No,No,No,Don't know,No
+27,Male,Yes,No,NA,No,No,No,Don't know,No
+35,female,No,Yes,Sometimes,No,Don't know,Don't know,Very easy,Yes
+29,Male,No,No,Never,Yes,Yes,No,Very easy,Don't know
+23,Male,Yes,Yes,Sometimes,Yes,No,No,Very easy,Yes
+39,M,No,No,NA,No,No,No,Don't know,Don't know
+30,Female,No,No,NA,Yes,Yes,Yes,Very easy,Yes
+32,M,No,No,NA,Not sure,No,Don't know,Somewhat easy,Don't know
+40,female,Yes,Yes,Sometimes,Yes,Yes,Yes,Don't know,Don't know
+36,f,Yes,No,NA,No,No,Don't know,Don't know,Yes
+27,Male,No,No,NA,Not sure,No,Don't know,Very easy,Yes
+41,Male,Yes,No,Sometimes,Yes,No,Yes,Don't know,No
+29,Male,No,No,Never,No,No,No,Don't know,Don't know
+29,m,No,Yes,Sometimes,No,No,No,Somewhat difficult,No
+35,Male,No,Yes,Often,No,No,No,Very difficult,No
+28,Male,No,Yes,Never,Yes,No,No,Don't know,Don't know
+36,F,No,No,Sometimes,Not sure,Don't know,Don't know,Don't know,Don't know
+39,Female,No,No,Sometimes,Not sure,No,Don't know,Don't know,Don't know
+39,Male,Yes,Yes,Sometimes,Yes,Yes,Yes,Very difficult,Don't know
+44,male,Yes,Yes,Sometimes,Yes,No,No,Very easy,Yes
+35,Male,Yes,Yes,Often,Yes,Yes,No,Somewhat easy,Yes
+40,Female,Yes,Yes,Sometimes,Not sure,Yes,Don't know,Don't know,Don't know
+35,Male,Yes,Yes,Often,Yes,Yes,No,Somewhat easy,Yes
+38,M,No,No,Never,Yes,No,No,Very difficult,Don't know
+34,Male,No,No,NA,Not sure,Don't know,Don't know,Don't know,Yes
+43,M,No,No,NA,No,Yes,Yes,Don't know,Don't know
+20,Male,No,No,Never,Not sure,Don't know,Don't know,Don't know,Yes
+40,M,No,No,Sometimes,Not sure,No,No,Somewhat easy,Don't know
+29,female,No,Yes,Rarely,No,No,No,Don't know,Don't know
+35,Male,Yes,Yes,Sometimes,Yes,No,No,Don't know,Yes
+29,Male,Yes,No,Sometimes,Yes,No,Yes,Very easy,Yes
+40,M,No,No,Never,Not sure,No,Don't know,Don't know,Don't know
+29,Male,No,Yes,Rarely,Yes,No,No,Very easy,Yes
+29,F,Yes,Yes,Rarely,Not sure,Don't know,No,Don't know,Don't know
+34,male,No,Yes,Sometimes,No,No,No,Don't know,Don't know
+44,Male,Yes,Yes,Sometimes,No,No,No,Somewhat difficult,No
+24,female,Yes,Yes,Often,Yes,No,No,Very easy,No
+47,F,No,No,NA,No,No,Don't know,Very difficult,No
+43,m,Yes,No,NA,No,No,No,Very easy,Don't know
+36,M,No,No,Rarely,Yes,Yes,Yes,Somewhat difficult,No
+43,male,No,Yes,Sometimes,No,No,Don't know,Very difficult,Don't know
+36,male,No,No,Sometimes,No,No,No,Somewhat difficult,Don't know
+31,Female,Yes,Yes,Sometimes,Yes,No,No,Somewhat difficult,Don't know
+35,Male,No,No,Sometimes,Not sure,Yes,Don't know,Don't know,Don't know
+33,male,Yes,No,NA,No,No,No,Somewhat difficult,Don't know
+37,Male,No,No,Sometimes,Not sure,Don't know,Don't know,Don't know,No
+34,M,No,Yes,Sometimes,No,Yes,Don't know,Don't know,Don't know
+36,Male,No,Yes,Sometimes,No,No,No,Very easy,Yes
+40,m,Yes,Yes,Sometimes,Yes,No,No,Very easy,Yes
+40,M,No,No,Rarely,Yes,Yes,Yes,Don't know,Don't know
+42,Male,No,Yes,Sometimes,Yes,No,No,Somewhat easy,Don't know
+23,M,Yes,No,NA,Yes,No,Don't know,Don't know,Don't know
+21,Male,Yes,No,Never,No,No,No,Somewhat easy,Don't know
+26,Male,No,No,Sometimes,No,No,No,Very difficult,Don't know
+31,Male,Yes,No,NA,Not sure,No,No,Don't know,Don't know
+25,M,Yes,No,NA,Yes,Yes,Yes,Very easy,Yes
+51,Male,No,No,Never,Yes,Yes,Yes,Very easy,Yes
+24,Male,No,No,NA,Not sure,Don't know,No,Somewhat easy,Don't know
+33,Male,No,No,NA,No,No,No,Don't know,No
+32,male,Yes,Yes,Rarely,No,No,No,Don't know,No
+32,male,Yes,Yes,Rarely,No,No,No,Don't know,No
+26,Male,No,Yes,Rarely,Not sure,Don't know,Don't know,Somewhat difficult,Yes
+23,M,No,No,Never,No,Don't know,Don't know,Don't know,Don't know
+33,Male,Yes,Yes,Often,Yes,No,No,Very difficult,No
+46,Male,No,Yes,Rarely,Yes,Yes,Yes,Somewhat easy,Yes
+34,male,No,No,NA,No,No,No,Somewhat difficult,No
+35,M,Yes,Yes,Sometimes,Yes,No,No,Somewhat easy,Don't know
+39,M,No,No,NA,Yes,No,No,Very difficult,No
+32,male,No,No,Sometimes,Yes,No,No,Somewhat easy,No
+43,Male,No,No,NA,No,No,Don't know,Don't know,Don't know
+56,m,No,Yes,Rarely,Yes,Don't know,Yes,Somewhat easy,Yes
+32,Female,Yes,Yes,Sometimes,No,No,No,Somewhat difficult,Don't know
+41,male,No,No,NA,Yes,Yes,Yes,Don't know,No
+39,Male,No,No,NA,Not sure,Don't know,Don't know,Don't know,Don't know
+37,Male,Yes,No,NA,Yes,No,No,Very easy,No
+30,m,Yes,Yes,Sometimes,Not sure,No,Don't know,Very difficult,Don't know
+31,Male,No,No,NA,No,Yes,No,Somewhat easy,No
+29,M,No,No,NA,Not sure,No,Don't know,Don't know,Don't know
+23,Female,Yes,No,Never,No,No,Yes,Somewhat easy,Don't know
+31,male,No,Yes,Never,Yes,No,Don't know,Very easy,Don't know
+29,Male,Yes,Yes,Sometimes,Not sure,Don't know,Don't know,Don't know,Yes
+37,Male,No,No,Never,No,Yes,Don't know,Don't know,Yes
+36,male,No,No,Never,No,No,Don't know,Somewhat difficult,Yes
+35,Male,Yes,Yes,Sometimes,Yes,No,Don't know,Don't know,No
+41,M,Yes,No,Never,No,No,No,Don't know,Don't know
+31,Male,No,Yes,Rarely,Not sure,No,No,Don't know,Don't know
+38,m,Yes,No,NA,Yes,Yes,Yes,Somewhat easy,No
+26,Male,No,No,NA,No,No,No,Very easy,Yes
+39,Male,Yes,No,Sometimes,No,Yes,Yes,Don't know,Don't know
+42,male,Yes,No,Sometimes,Not sure,Don't know,Yes,Don't know,Don't know
+32,Male,Yes,Yes,Rarely,Yes,No,No,Very difficult,Don't know
+29,m,Yes,No,NA,Not sure,Don't know,Don't know,Don't know,Don't know
+30,Male,Yes,No,Never,No,Don't know,Yes,Very difficult,No
+40,M,Yes,Yes,Often,Not sure,No,Don't know,Don't know,Don't know
+51,m,No,No,NA,Not sure,No,Don't know,Somewhat difficult,Don't know
+33,Male,No,No,Never,Yes,Yes,Yes,Somewhat easy,Yes
+34,male,No,Yes,Sometimes,Not sure,No,No,Somewhat difficult,Don't know
+50,Male,No,No,Never,Yes,No,No,Somewhat easy,Yes
+24,Male,No,No,Sometimes,No,No,Don't know,Somewhat easy,No
+25,Male,Yes,Yes,Rarely,No,No,No,Don't know,No
+43,Male,Yes,Yes,Rarely,No,No,No,Very difficult,No
+25,f,No,Yes,Often,Yes,Yes,Yes,Very easy,Yes
+24,Male,No,No,NA,Yes,No,No,Very easy,Yes
+51,m,No,No,Never,Yes,No,No,Somewhat difficult,Don't know
+49,Male,Yes,Yes,Sometimes,Yes,No,Yes,Somewhat difficult,No
+30,Male,No,No,NA,No,Yes,Yes,Don't know,Don't know
+25,female,Yes,Yes,Sometimes,Yes,Yes,No,Don't know,No
+36,Male,No,Yes,Rarely,Yes,Don't know,Don't know,Don't know,Don't know
+48,Male,No,Yes,Never,Yes,Yes,Yes,Don't know,Yes
+48,male,No,Yes,Sometimes,No,No,No,Somewhat easy,No
+53,Male,No,Yes,Rarely,Yes,No,Yes,Don't know,Don't know
+24,Female,Yes,Yes,Often,No,No,No,Very easy,Don't know
+33,Male,Yes,Yes,Sometimes,Yes,No,Yes,Somewhat easy,Don't know
+25,Female,Yes,Yes,Sometimes,Yes,No,No,Somewhat easy,Don't know
+30,Male,No,Yes,Sometimes,No,No,No,Somewhat difficult,No
+30,Male,No,No,Never,Yes,No,No,Somewhat easy,Don't know
+34,male,No,Yes,Sometimes,No,No,No,Somewhat difficult,Yes
+31,Male,No,No,NA,Yes,Yes,Yes,Very easy,Yes
+22,F,Yes,Yes,Often,Not sure,No,Don't know,Don't know,Don't know
+28,Male,Yes,No,Sometimes,Not sure,No,Don't know,Somewhat easy,Don't know
+35,Male,Yes,Yes,Rarely,Yes,No,Yes,Somewhat difficult,No
+28,Male,Yes,Yes,Sometimes,No,No,No,Don't know,Yes
+42,male,No,Yes,Sometimes,Yes,Don't know,No,Somewhat difficult,No
+33,Male,Yes,No,NA,No,Don't know,Don't know,Very easy,Yes
+29,male,No,No,Sometimes,No,Yes,No,Don't know,Don't know
+43,M,Yes,No,Sometimes,Not sure,No,Don't know,Don't know,No
+29,Male,No,No,NA,Yes,Yes,Yes,Somewhat easy,Yes
+25,Male,No,No,NA,No,No,No,Don't know,Don't know
+31,Male,Yes,No,Never,No,Don't know,Don't know,Very easy,Don't know
+35,Female,Yes,Yes,Sometimes,Not sure,Yes,Yes,Somewhat difficult,Yes
+34,male,No,No,Often,No,No,Yes,Very easy,Yes
+38,Male,Yes,Yes,Sometimes,Not sure,No,No,Very difficult,No
+26,Male,Yes,Yes,Sometimes,Not sure,No,Yes,Very difficult,No
+38,Male,Yes,Yes,Rarely,No,No,No,Very difficult,No
+42,Male,No,Yes,Often,No,No,Don't know,Don't know,Don't know
+33,Male,Yes,Yes,NA,No,No,Don't know,Don't know,Yes
+32,Male,No,Yes,Rarely,Yes,Yes,Yes,Somewhat easy,Don't know
+44,male,Yes,Yes,Sometimes,Yes,Yes,Yes,Somewhat difficult,No
+28,Male,Yes,Yes,Rarely,Yes,Don't know,Don't know,Don't know,No
+40,Male,Yes,Yes,Sometimes,Yes,Yes,Yes,Very difficult,Don't know
+31,F,Yes,Yes,Sometimes,Yes,No,Don't know,Somewhat easy,Yes
+32,male,Yes,No,Sometimes,Yes,Yes,Yes,Don't know,Don't know
+28,Male,Yes,Yes,Sometimes,No,Don't know,Don't know,Somewhat easy,No
+39,Male,Yes,Yes,Often,Yes,No,No,Don't know,No
+45,Male,No,No,NA,Yes,Yes,Yes,Don't know,Yes
+43,Male,No,Yes,Rarely,Yes,Yes,Yes,Somewhat easy,Yes
+35,Male,No,Yes,Sometimes,Yes,Don't know,Yes,Very difficult,Don't know
+40,Male,Yes,Yes,Sometimes,Yes,Don't know,Don't know,Very easy,Don't know
+34,Male,No,Yes,Rarely,Yes,No,No,Very easy,Yes
+24,Male,Yes,Yes,Often,Yes,No,No,Somewhat easy,No
+61,male,No,Yes,Sometimes,No,No,No,Very difficult,No
+38,Male,No,No,NA,No,No,No,Don't know,Don't know
+33,male,Yes,Yes,Often,Not sure,Yes,No,Somewhat easy,Yes
+30,male,Yes,No,Never,No,No,Don't know,Don't know,No
+34,male,Yes,Yes,Rarely,Yes,Yes,Yes,Very easy,Yes
+26,Male,No,Yes,Rarely,Not sure,Don't know,Don't know,Don't know,No
+33,M,No,No,NA,Not sure,Don't know,Don't know,Don't know,Don't know
+32,Male,No,No,NA,No,No,No,Very easy,No
+25,male,No,No,Sometimes,Yes,No,No,Somewhat easy,Yes
+35,male,No,Yes,Sometimes,No,No,No,Somewhat difficult,Don't know
+24,M,Yes,No,Often,Not sure,No,No,Don't know,Don't know
+55,male,No,Yes,Often,Yes,Yes,Yes,Somewhat easy,No
+33,Male,Yes,Yes,Sometimes,Yes,No,No,Very difficult,No
+26,Female,Yes,Yes,Sometimes,No,No,No,Very easy,Yes
+25,Male,No,No,Never,Not sure,Don't know,Don't know,Very easy,Don't know
+45,Male,Yes,No,Rarely,No,No,No,Don't know,Don't know
+33,female,No,Yes,Sometimes,Yes,Yes,Yes,Very easy,Don't know
+43,Male,No,No,Sometimes,Not sure,No,No,Very difficult,No
+30,Male,No,Yes,Sometimes,Yes,No,No,Very difficult,Yes
+40,Male,Yes,Yes,Rarely,Not sure,No,Don't know,Don't know,Don't know
+49,Male,Yes,No,Never,Yes,Yes,Yes,Don't know,Yes
+29,Male,No,No,NA,Not sure,No,No,Somewhat easy,Don't know
+26,male,No,No,NA,No,Don't know,Don't know,Don't know,Don't know
+27,Male,Yes,No,NA,Yes,Don't know,No,Somewhat easy,Don't know
+26,male,No,No,Never,No,No,No,Somewhat easy,Don't know
+28,Male,Yes,Yes,Often,No,No,No,Somewhat easy,No
+40,Male,Yes,Yes,Sometimes,No,No,No,Don't know,No
+37,Female,Yes,Yes,Rarely,Yes,No,No,Somewhat easy,Don't know
+34,female,Yes,Yes,Often,Yes,No,Yes,Somewhat easy,Don't know
+28,male,Yes,Yes,Often,Not sure,No,Don't know,Don't know,Don't know
+27,Male,No,No,Never,Not sure,Yes,No,Very easy,Yes
+29,Male,No,Yes,Sometimes,No,No,No,Very easy,Yes
+39,Female,Yes,No,Rarely,Not sure,No,No,Somewhat difficult,No
+28,male,No,No,Often,No,No,No,Somewhat difficult,Yes
+23,Male,Yes,No,Sometimes,Not sure,Yes,Yes,Somewhat easy,Don't know
+38,Male,No,No,NA,No,No,No,Somewhat easy,Don't know
+19,Male,No,No,NA,No,No,Yes,Very easy,Yes
+30,Female,Yes,Yes,Sometimes,Yes,Yes,Don't know,Very easy,Yes
+28,male,No,No,NA,Yes,No,No,Very easy,Yes
+20,Male,No,Yes,Sometimes,No,No,No,Don't know,Yes
+35,Male,No,No,Sometimes,Not sure,No,Don't know,Somewhat easy,Don't know
+39,male,No,Yes,Rarely,Yes,No,No,Very easy,Don't know
+31,Female,Yes,No,Never,Not sure,No,Don't know,Don't know,Don't know
+32,Male,No,No,Rarely,No,No,No,Don't know,Don't know
+27,Male,No,No,NA,No,No,No,Don't know,Don't know
+25,Male,Yes,Yes,Often,Yes,No,Don't know,Somewhat easy,Don't know
+42,male,Yes,Yes,Sometimes,No,No,Don't know,Don't know,Don't know
+34,male,Yes,Yes,Often,Yes,No,No,Very easy,Don't know
+26,female,No,Yes,Sometimes,No,No,Don't know,Don't know,Don't know
+35,Male,Yes,Yes,Sometimes,Yes,No,No,Very easy,Yes
+34,Male,No,No,Never,No,No,Don't know,Very easy,Yes
+38,m,Yes,Yes,Sometimes,Yes,No,Yes,Very easy,Don't know
+34,M,No,No,Sometimes,No,No,No,Don't know,Don't know
+39,M,Yes,Yes,Sometimes,Yes,No,No,Somewhat easy,Yes
+44,F,No,No,NA,Not sure,No,No,Don't know,Don't know
+40,male,No,No,NA,Yes,Yes,Yes,Don't know,Don't know
+33,female,No,No,Never,Yes,Don't know,Don't know,Somewhat easy,Yes
+24,Female,Yes,No,Sometimes,Yes,No,Don't know,Somewhat difficult,No
+38,Female,Yes,No,Sometimes,Not sure,Don't know,Don't know,Don't know,Don't know
+31,male,No,No,Sometimes,Not sure,Yes,Yes,Don't know,Yes
+23,Male,No,No,NA,Not sure,No,No,Very easy,Don't know
+26,F,No,No,NA,Not sure,No,No,Somewhat easy,Yes
+30,Male,Yes,Yes,Sometimes,No,No,No,Don't know,Don't know
+25,Male,No,No,Rarely,No,No,No,Somewhat easy,Don't know
+19,M,No,No,Never,No,No,No,Somewhat easy,No
+30,Female,Yes,Yes,Sometimes,Yes,Yes,Yes,Somewhat easy,No
+32,m,No,No,Never,Yes,Yes,Yes,Somewhat easy,Yes
+32,Male,No,No,NA,No,No,No,Don't know,Don't know
+37,Male,Yes,No,Sometimes,No,No,No,Somewhat easy,No
+42,M,Yes,Yes,Sometimes,No,No,Don't know,Don't know,Don't know
+25,female,No,No,Never,Yes,Yes,Yes,Don't know,Yes
+19,Male,No,No,Sometimes,Not sure,No,No,Don't know,Don't know
+40,female,Yes,No,Never,Yes,Yes,No,Don't know,Don't know
+34,Male,No,No,NA,Not sure,Yes,Don't know,Don't know,Don't know
+26,Male,Yes,No,NA,Not sure,No,No,Don't know,Yes
+31,Male,Yes,Yes,Rarely,Not sure,Don't know,Don't know,Don't know,Yes
+40,Male,Yes,No,Sometimes,Not sure,Yes,Don't know,Don't know,No
+31,Female,Yes,Yes,Often,No,No,No,Very difficult,No
+36,M,No,No,Never,No,No,Don't know,Don't know,Don't know
+35,Male,Yes,No,Sometimes,Yes,No,No,Don't know,Don't know
+26,male,Yes,Yes,Sometimes,No,No,No,Don't know,Yes
+44,m,No,No,NA,No,Don't know,Don't know,Don't know,No
+34,Female,No,No,Sometimes,Not sure,No,No,Very easy,Yes
+35,Male,No,No,NA,No,No,No,Don't know,Don't know
+28,female,Yes,Yes,Sometimes,No,No,No,Somewhat easy,No
+33,Male,No,No,NA,No,Don't know,Yes,Don't know,Yes
+40,M,Yes,Yes,Sometimes,Yes,No,Yes,Don't know,Don't know
+26,Male,No,Yes,Sometimes,Yes,No,No,Don't know,Don't know
+29,f,No,Yes,Often,Yes,No,No,Don't know,No
+26,Female,Yes,Yes,Sometimes,Not sure,No,No,Don't know,Don't know
+28,Male,Yes,No,Sometimes,No,No,No,Somewhat easy,Don't know
+41,Male,No,Yes,Often,Yes,Yes,Yes,Very difficult,Yes
+39,Male,Yes,Yes,Sometimes,Yes,Yes,Yes,Somewhat difficult,Yes
+26,female,Yes,Yes,Sometimes,Yes,No,No,Don't know,No
+23,Female,Yes,No,Sometimes,No,No,No,Somewhat difficult,No
+35,Male,Yes,Yes,Often,Not sure,No,No,Very easy,No
+36,Male,No,No,Never,Not sure,Don't know,Don't know,Very easy,Don't know
+42,M,No,No,Rarely,No,No,Don't know,Don't know,No
+39,Male,Yes,Yes,Sometimes,Yes,No,Don't know,Very easy,Yes
+27,Male,No,No,Never,No,No,Don't know,Don't know,Don't know
+33,male,No,No,Never,No,No,No,Very easy,Yes
+28,Female,No,Yes,Rarely,Yes,Don't know,Yes,Very easy,Don't know
+29,Female,No,Yes,Often,No,No,No,Somewhat easy,Don't know
+27,Male,No,Yes,Sometimes,Not sure,No,No,Very difficult,No
+44,M,No,No,Never,No,No,No,Somewhat difficult,Don't know
+25,Male,No,Yes,Often,No,No,No,Somewhat easy,Don't know
+24,male,Yes,Yes,Sometimes,No,No,No,Somewhat easy,Don't know
+25,Male,Yes,Yes,Often,No,No,No,Don't know,No
+34,M,No,No,Never,Not sure,Don't know,Don't know,Somewhat easy,Don't know
+26,Male,No,No,Never,Yes,No,Don't know,Somewhat difficult,Don't know
+48,Male,No,No,Never,Yes,Yes,Yes,Don't know,Don't know
+34,Male,No,No,NA,No,No,No,Very difficult,No
+39,Female,No,Yes,Sometimes,No,No,No,Don't know,No
+43,Male,No,No,Sometimes,Not sure,No,Yes,Don't know,Don't know
+41,M,No,No,Rarely,Yes,Yes,Yes,Don't know,Yes
+25,Male,No,No,Never,No,No,No,Don't know,Don't know
+31,m,No,Yes,Sometimes,Yes,No,No,Somewhat easy,No
+40,Male,Yes,Yes,Sometimes,Yes,Yes,Yes,Don't know,No
+43,Male,Yes,Yes,Sometimes,Not sure,No,Don't know,Don't know,Don't know
+27,Female,Yes,Yes,Often,Yes,Yes,Yes,Very difficult,No
+37,female,Yes,Yes,Sometimes,Yes,No,Don't know,Don't know,Don't know
+32,male,No,Yes,Sometimes,No,No,No,Very difficult,No
+25,Male,Yes,Yes,Often,Yes,No,No,Very easy,No
+29,Male,Yes,Yes,Often,Not sure,Don't know,Yes,Very difficult,Yes
+30,Female,Yes,Yes,Often,No,No,No,Somewhat difficult,No
+34,female,Yes,Yes,Often,No,Yes,Don't know,Somewhat easy,Yes
+32,male,Yes,Yes,Sometimes,Yes,Yes,Yes,Somewhat easy,No
+37,male,No,No,NA,No,No,No,Very easy,Yes
+41,male,No,Yes,Sometimes,No,No,No,Somewhat difficult,Yes
+38,male,Yes,No,Never,Not sure,Yes,Yes,Don't know,No
+32,Male,No,Yes,Sometimes,Yes,Yes,Don't know,Don't know,Don't know
+28,Female,Yes,Yes,Sometimes,Yes,Don't know,Don't know,Don't know,Yes
+11,male,No,No,Never,Yes,No,No,Very easy,Yes
+43,male,Yes,No,Never,Yes,No,Don't know,Somewhat easy,No
+32,Male,Yes,Yes,Often,Yes,No,No,Very difficult,No
+25,M,No,Yes,Sometimes,Yes,Yes,Don't know,Don't know,Yes
+37,Male,No,Yes,Sometimes,No,No,Yes,Very easy,Yes
+36,male,No,Yes,Sometimes,Yes,No,No,Very difficult,No
+24,Male,Yes,Yes,Rarely,No,No,No,Very easy,Yes
+40,male,Yes,Yes,Sometimes,Not sure,Yes,Don't know,Somewhat difficult,Don't know
+29,Male,No,No,NA,Not sure,Yes,Don't know,Somewhat easy,Yes
+43,Male,No,No,Never,No,No,Don't know,Don't know,Yes
+29,Male,No,No,NA,Not sure,No,Yes,Don't know,Don't know
+26,Male,Yes,No,Sometimes,Not sure,No,No,Don't know,Don't know
+33,Female,Yes,Yes,Often,Yes,No,No,Very difficult,No
+35,Female,Yes,No,Sometimes,No,No,No,Somewhat easy,Yes
+45,M,No,No,Never,No,No,No,Don't know,Don't know
+25,Male,No,Yes,Rarely,Yes,No,Don't know,Somewhat easy,Don't know
+50,male,No,Yes,Sometimes,No,No,No,Don't know,Don't know
+26,male,Yes,Yes,Rarely,No,Don't know,Don't know,Very easy,Yes
+33,female,No,Yes,Often,Yes,Don't know,Don't know,Don't know,Don't know
+30,Male,No,No,Often,No,No,No,Very easy,Don't know
+33,male,Yes,Yes,Sometimes,Yes,No,Don't know,Very easy,Yes
+29,M,No,Yes,Often,No,No,No,Somewhat easy,No
+37,male,No,No,NA,Not sure,No,No,Don't know,Don't know
+25,Male,Yes,Yes,Sometimes,No,Don't know,Don't know,Very easy,Don't know
+40,m,No,No,NA,Not sure,Don't know,Don't know,Somewhat easy,Don't know
+24,Male,No,No,Sometimes,Yes,No,No,Don't know,Don't know
+40,Male,No,Yes,Never,Not sure,No,Don't know,Very easy,Don't know
+46,Male,Yes,Yes,Sometimes,Yes,No,Don't know,Don't know,Don't know
+38,Male,Yes,Yes,Rarely,Yes,Yes,Yes,Somewhat easy,Don't know
+34,Male,No,No,Never,Yes,No,No,Don't know,Don't know
+32,Male,No,Yes,Rarely,Yes,Yes,Yes,Very easy,No
+44,Male,No,Yes,Sometimes,No,No,Yes,Don't know,No
+33,Female,No,Yes,Never,Not sure,No,Don't know,Very easy,No
+45,female,No,Yes,Rarely,No,Don't know,Don't know,Don't know,Don't know
+35,Male,No,No,NA,Not sure,Don't know,Don't know,Don't know,Yes
+26,Male,Yes,Yes,Often,No,No,No,Don't know,No
+20,female,No,Yes,Sometimes,Not sure,Don't know,Don't know,Don't know,Don't know
+37,Male,Yes,No,Sometimes,No,No,No,Somewhat easy,Yes
+28,male,No,No,NA,No,No,No,Somewhat easy,No
+42,F,Yes,Yes,Sometimes,Yes,No,No,Don't know,No
+32,male,No,No,NA,No,No,No,Don't know,Don't know
+36,F,Yes,Yes,Rarely,Yes,No,No,Somewhat easy,Don't know
+27,M,No,No,Rarely,Yes,No,Yes,Somewhat difficult,No
+27,M,No,No,Rarely,Yes,No,Yes,Somewhat difficult,No
+27,Male,No,Yes,Sometimes,No,No,No,Somewhat easy,No
+25,Male,Yes,Yes,Sometimes,No,No,No,Very easy,Yes
+41,M,Yes,No,NA,No,No,No,Somewhat difficult,Don't know
+23,Male,Yes,Yes,Sometimes,Not sure,No,No,Somewhat easy,Don't know
+21,Male,No,Yes,Sometimes,No,No,Don't know,Don't know,Don't know
+26,Male,No,Yes,Often,Yes,No,No,Very difficult,Don't know
+29,Male,No,No,Rarely,Not sure,Don't know,Don't know,Don't know,Don't know
+28,male,No,No,Sometimes,No,No,No,Somewhat easy,Don't know
+27,female,Yes,No,NA,Yes,No,No,Don't know,Yes
+23,Male,No,No,Never,Yes,Yes,Yes,Somewhat difficult,Yes
+26,F,Yes,No,Sometimes,No,No,No,Don't know,Don't know
+38,Male,Yes,Yes,Sometimes,Not sure,Don't know,Don't know,Very easy,Don't know
+39,M,Yes,Yes,Sometimes,No,No,No,Very easy,Yes
+35,M,Yes,Yes,Often,Yes,No,Yes,Somewhat easy,Don't know
+32,male,No,No,Rarely,Not sure,No,Don't know,Don't know,Don't know
+32,Male,No,Yes,Sometimes,Yes,Yes,Yes,Somewhat difficult,Don't know
+26,Male,No,No,Never,No,No,No,Don't know,Don't know
+38,Male,Yes,Yes,Rarely,Not sure,No,Don't know,Don't know,No
+34,Female,Yes,No,Rarely,Yes,Yes,Yes,Very easy,Yes
+39,Male,Yes,Yes,Often,Not sure,No,No,Somewhat easy,Don't know
+32,male,No,No,Never,Not sure,No,No,Very easy,Yes
+37,Male,No,No,Never,Not sure,Don't know,Don't know,Very easy,Don't know
+31,male,Yes,Yes,Never,Not sure,No,Don't know,Somewhat easy,Don't know
+30,m,Yes,Yes,Rarely,Yes,No,No,Don't know,Don't know
+51,M,No,No,Never,No,No,Don't know,Don't know,No
+29,M,No,Yes,Sometimes,Yes,No,No,Don't know,Don't know
+31,Male,No,No,Never,No,No,Yes,Don't know,Yes
+31,Male,No,No,NA,Not sure,No,No,Don't know,Don't know
+26,Male,Yes,Yes,Sometimes,No,No,Don't know,Somewhat easy,Don't know
+46,Female,No,Yes,Often,Yes,No,No,Don't know,No
+32,Male,Yes,No,Sometimes,No,Yes,Don't know,Don't know,Don't know
+29,Male,Yes,Yes,Sometimes,Yes,Yes,Yes,Don't know,Don't know
+34,male,No,No,Never,Not sure,No,No,Don't know,Don't know
+26,Male,No,No,Often,No,No,No,Very difficult,Yes
+32,Female,No,Yes,Sometimes,Yes,No,Don't know,Don't know,No
+29,Male,No,No,NA,Not sure,No,No,Don't know,No
+30,Male,No,No,NA,No,Yes,Yes,Don't know,Don't know
+40,F,Yes,Yes,Sometimes,Yes,No,Yes,Somewhat easy,Yes
+23,Male,No,Yes,Sometimes,No,No,No,Very difficult,No
+20,Male,No,No,Rarely,No,No,No,Very difficult,No
+38,male,Yes,No,NA,No,No,No,Somewhat difficult,Don't know
+26,Female,Yes,Yes,Rarely,No,No,No,Don't know,No
+29,Male,No,No,Never,No,No,Don't know,Don't know,No
+40,m,No,No,Sometimes,Yes,No,No,Somewhat easy,Don't know
+25,female,No,Yes,Sometimes,No,No,No,Don't know,No
+38,male,Yes,Yes,Sometimes,Yes,Yes,Yes,Don't know,No
+72,Female,Yes,Yes,Never,Not sure,Don't know,Yes,Somewhat easy,Don't know
+35,female,Yes,Yes,Sometimes,No,No,No,Don't know,Yes
+28,F,No,Yes,Often,Yes,No,No,Very difficult,Don't know
+56,female,No,No,Rarely,Not sure,Don't know,Don't know,Don't know,Don't know
+38,Male,Yes,Yes,Sometimes,No,No,No,Don't know,Don't know
+31,Female,No,No,NA,Not sure,No,No,Very easy,Don't know
+40,Male,Yes,Yes,Sometimes,Yes,No,No,Don't know,Yes
+44,M,Yes,Yes,Sometimes,Yes,No,Yes,Don't know,Don't know
+34,Male,Yes,No,Sometimes,Not sure,Yes,Yes,Don't know,Don't know
+37,Male,No,No,Never,No,No,No,Somewhat easy,Don't know
+38,male,No,No,Never,Not sure,Don't know,Don't know,Don't know,No
+27,male,No,No,NA,Not sure,No,No,Don't know,Don't know
+34,female,No,Yes,Sometimes,Yes,Yes,No,Don't know,Yes
+35,Female,No,No,Rarely,No,No,No,Don't know,No
+34,male,No,Yes,Often,No,No,No,Somewhat difficult,No
+32,Male,No,Yes,Often,Not sure,No,Don't know,Very difficult,Don't know
+25,male,No,No,NA,Not sure,No,Don't know,Don't know,Don't know
+28,Male,No,Yes,Often,Yes,No,No,Don't know,No
+28,Female,No,Yes,Rarely,No,No,No,Somewhat easy,No
+31,Male,No,Yes,NA,Yes,No,No,Don't know,Don't know
+24,Male,No,No,NA,Not sure,No,No,Somewhat easy,Don't know
+34,Male,Yes,Yes,Never,No,No,No,Don't know,Don't know
+32,male,No,Yes,Sometimes,No,No,No,Somewhat easy,Don't know
+34,Male,Yes,No,Often,Not sure,No,No,Somewhat easy,Yes
+23,Male,No,Yes,Sometimes,Yes,No,No,Very easy,No
+33,Male,Yes,No,Often,Yes,No,No,Somewhat easy,Don't know
+29,male,Yes,Yes,Sometimes,Not sure,No,No,Somewhat difficult,No
+24,male,Yes,No,NA,No,No,No,Don't know,Don't know
+45,male,No,No,Never,Not sure,No,No,Don't know,No
+34,Female,No,Yes,Sometimes,Yes,No,Yes,Somewhat difficult,No
+31,Male,No,No,Sometimes,No,No,No,Very difficult,No
+33,Male,No,Yes,Often,Yes,No,No,Don't know,Don't know
+28,male,No,No,NA,Not sure,No,No,Somewhat easy,Don't know
+27,Male,No,No,Rarely,Not sure,No,Yes,Don't know,Don't know
+42,male,No,No,Never,Yes,No,No,Somewhat difficult,No
+28,male,No,No,NA,Not sure,No,No,Somewhat easy,Don't know
+38,Male,No,Yes,Sometimes,No,Yes,Yes,Very easy,Don't know
+46,Male,Yes,Yes,Often,No,No,No,Don't know,No
+46,male,Yes,Yes,Sometimes,Not sure,Don't know,Don't know,Don't know,Don't know
+41,female,No,Yes,Rarely,Yes,Don't know,Yes,Somewhat easy,Yes
+24,male,Yes,Yes,Sometimes,Yes,No,Yes,Somewhat easy,Yes
+23,female,No,Yes,Rarely,Yes,Yes,No,Don't know,Don't know
+39,Male,No,No,NA,Not sure,Yes,Don't know,Somewhat easy,Yes
+32,Female,Yes,No,Never,Yes,Don't know,Yes,Don't know,Don't know
+25,Male,Yes,Yes,Sometimes,Yes,No,No,Somewhat easy,Don't know
+39,Male,No,No,NA,No,No,No,Don't know,Don't know
+23,Female,Yes,Yes,Sometimes,Yes,No,Yes,Very easy,Yes
+25,Male,Yes,Yes,Sometimes,Yes,Yes,Yes,Very easy,Yes
+23,Male,No,Yes,Rarely,Yes,No,No,Don't know,Don't know
+23,Male,No,Yes,Often,Yes,Yes,Don't know,Don't know,Don't know
+60,Male,No,Yes,Often,No,Yes,Don't know,Somewhat easy,Don't know
+28,male,No,No,Sometimes,Yes,No,No,Don't know,No
+28,Male,Yes,Yes,Often,Yes,Yes,Yes,Somewhat easy,No
+30,male,No,No,Sometimes,No,No,No,Don't know,Don't know
+31,male,Yes,Yes,Sometimes,No,No,No,Somewhat easy,Don't know
+31,Male,No,Yes,Often,No,No,No,Somewhat easy,Don't know
+28,Male,No,Yes,Rarely,No,No,Don't know,Don't know,Don't know
+43,f,Yes,Yes,Rarely,Yes,No,Yes,Don't know,Don't know
+32,female,No,No,NA,No,No,Don't know,Don't know,No
+22,Male,Yes,Yes,Often,Yes,Yes,Yes,Don't know,Don't know
+32,Male,No,No,Never,Not sure,Don't know,Yes,Somewhat easy,Don't know
+36,male,No,Yes,Often,No,No,No,Very difficult,Don't know
+41,Female,Yes,Yes,Sometimes,No,No,Don't know,Don't know,Don't know
+30,M,Yes,Yes,Sometimes,Yes,Don't know,No,Very easy,Yes
+30,Male,Yes,Yes,Often,Not sure,Yes,Yes,Don't know,Yes
+36,Male,Yes,Yes,Often,Yes,No,No,Somewhat easy,Yes
+29,male,Yes,Yes,Sometimes,Yes,Yes,No,Don't know,No
+36,Male,Yes,No,Rarely,No,Yes,Yes,Somewhat easy,Don't know
+26,male,No,Yes,NA,No,No,No,Somewhat easy,Don't know
+32,Male,Yes,Yes,Often,Yes,No,No,Somewhat difficult,Yes
+34,male,Yes,Yes,Sometimes,Yes,No,No,Somewhat difficult,No
+46,f,No,No,NA,Yes,No,No,Don't know,No
+25,Male,Yes,Yes,Sometimes,Yes,No,No,Don't know,Don't know
